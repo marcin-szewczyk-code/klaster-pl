@@ -1,0 +1,13 @@
+# ==================================================================================
+# Locale: English
+# Theme: Chirpy
+# ==================================================================================
+
+meta: "Generator:&nbsp;:PLATFORM · Theme:&nbsp;:THEME · License:&nbsp;:COPYRIGHT · Analytics:&nbsp;:PRIVACY"
+
+copyright:
+  brief: "All rights reserved."
+  verbose: "All rights reserved."
+  license:
+    template: "© Marcin Szewczyk. All rights reserved."
+

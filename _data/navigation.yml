@@ -1,0 +1,27 @@
+tabs:
+  - title: Home
+    url: /
+    icon: home
+
+  - title: Categories
+    url: /categories/
+    icon: folder
+
+  - title: Tags
+    url: /tags/
+    icon: tags
+
+  - title: Archives
+    url: /archives/
+    icon: archive
+
+  - title: "PL"
+    url: "/"
+
+  - title: "EN"
+    url: "https://en.blog.marcinszewczyk.net"
+
+bottom:
+  - title: About
+    url: /about/
+    icon: info-circle

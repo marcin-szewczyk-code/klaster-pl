@@ -1,0 +1,51 @@
+# Bundler cache
+.bundle
+vendor
+Gemfile.lock
+
+# Jekyll cache
+.jekyll-cache
+.jekyll-metadata
+_site
+
+# RubyGems
+*.gem
+
+# NPM dependencies
+node_modules
+package-lock.json
+
+# IDE configurations
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+
+# Misc
+_sass/vendors
+assets/js/dist
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.toc
+*.out
+*.gz
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Bibliography
+*.bbl
+*.blg
+
+# Index files
+*.idx
+*.ind
+*.ilg
+
+# MATLAB autosave files
+*.asv

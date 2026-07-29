@@ -1,0 +1,141 @@
+<!-- The Top Bar -->
+
+<header id="topbar-wrapper" class="flex-shrink-0" aria-label="Top Bar">
+  <div
+    id="topbar"
+    class="d-flex align-items-center justify-content-between px-lg-3 h-100"
+  >
+    <nav aria-label="Breadcrumb">  <!-- id="breadcrumb" -->
+      {% assign paths = page.url | split: '/' %}
+
+      {% if paths.size == 0 or page.layout == 'home' %}
+        <!-- index page -->
+        <!-- <span>{{ site.data.locales[include.lang].tabs.home | capitalize }}</span> -->
+
+  <a class="text-muted text-decoration-none d-inline-flex align-items-center"
+     style="gap: 0.35rem;"
+     href="{{ '/newsletter/' | relative_url }}"
+     aria-label="Newsletter"
+     title="Newsletter">
+    <i class="fas fa-newspaper fa-fw"></i>
+    <span>NEWSLETTER</span>
+  </a>
+  <span class="text-muted mx-2">•</span>
+  <a class="text-muted text-decoration-none d-inline-flex align-items-center"
+     style="gap: 0.35rem;"
+     href="{{ '/rss/' | relative_url }}"
+     aria-label="RSS"
+     title="RSS">
+    <i class="fas fa-rss fa-fw"></i>
+    <span>RSS</span>
+  </a>
+
+
+
+
+      {% else %}
+        {% for item in paths %}
+          {% if forloop.first %}
+            <a class="text-muted text-decoration-none d-inline-flex align-items-center"
+     style="gap: 0.35rem;"
+     href="{{ '/newsletter/' | relative_url }}"
+     aria-label="Newsletter"
+     title="Newsletter">
+    <i class="fas fa-newspaper fa-fw"></i>
+    <span>NEWSLETTER</span>
+  </a>
+  <span class="text-muted mx-2">•</span>
+  <a class="text-muted text-decoration-none d-inline-flex align-items-center"
+     style="gap: 0.35rem;"
+     href="{{ '/rss/' | relative_url }}"
+     aria-label="RSS"
+     title="RSS">
+    <i class="fas fa-rss fa-fw"></i>
+    <span>RSS</span>
+  </a>
+            <!-- 111<span>
+              <a href="{{ '/' | relative_url }}">
+                {{- site.data.locales[include.lang].tabs.home | capitalize -}}
+              </a>
+            </span>
+            -->
+          {% elsif forloop.last %}
+            {% if page.collection == 'tabs' %}
+              <!-- 222<span>{{ site.data.locales[include.lang].tabs[item] | default: page.title }}</span> -->
+            {% else %}
+              <!-- 333<span>{{ page.title }}</span>-->
+            {% endif %}
+
+          {% elsif page.layout == 'category' or page.layout == 'tag' %}
+            <!--
+            444<span>
+              <a href="{{ item | append: '/' | relative_url }}">
+                {{- site.data.locales[include.lang].tabs[item] | default: page.title -}}
+              </a>
+            </span>
+            -->
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </nav>
+    <!-- endof #breadcrumb -->
+
+    <button type="button" id="sidebar-trigger" class="btn btn-link" aria-label="Sidebar">
+      <i class="fas fa-bars fa-fw"></i>
+    </button>
+
+<!-- MPS: Home na mobile + custom.css
+<a href="{{ '/' | relative_url }}"
+   class="text-muted text-decoration-none d-inline-flex align-items-center"
+   style="gap: 0.35rem;"
+   id="home-trigger"
+   aria-label="Home"
+   title="Home">
+  <i class="fas fa-home fa-fw"></i>
+</a>
+-->
+      <!--
+    <div id="topbar-title">
+      {% if page.layout == 'home' %}
+        {{- site.data.locales[include.lang].title | default: site.title -}}
+      {% elsif page.collection == 'tabs' or page.layout == 'page' %}
+        {%- capture tab_key -%}{{ page.url | split: '/' }}{%- endcapture -%}
+        {{- site.data.locales[include.lang].tabs[tab_key] | default: page.title -}}
+      {% else %}
+        {{- site.data.locales[include.lang].layout[page.layout] | default: page.layout | capitalize -}}
+      {% endif %}
+    </div>
+    -->
+
+    <button type="button" id="search-trigger" class="btn btn-link" aria-label="Search">
+      <i class="fas fa-search fa-fw"></i>
+    </button>
+
+    <search id="search" class="align-items-center ms-3 ms-lg-0">
+      <i class="fas fa-search fa-fw"></i>
+      <input
+        class="form-control"
+        id="search-input"
+        type="search"
+        aria-label="search"
+        autocomplete="off"
+        placeholder="{{ site.data.locales[include.lang].search.hint | capitalize }}..."
+      >
+    </search>
+    <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">
+      {{- site.data.locales[include.lang].search.cancel -}}
+    </button>
+  </div>
+</header>
+
+<!-- MPS: KLASTER+ header image -->
+<div style="width: 100%; margin: 0 0 -1rem 0; overflow: hidden; border-radius: 8px;">
+  <img
+    src="{{ '/assets/img/klaster_header_with_logo.webp' | relative_url }}"
+    width="2014"
+    height="390"
+    alt="KLASTER+"
+    style="display: block; width: 100%; height: auto;"
+    fetchpriority="high"
+  >
+</div>
