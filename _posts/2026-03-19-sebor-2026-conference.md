@@ -48,7 +48,7 @@ Artykuł został opublikowany w lipcowym numerze czasopisma „Przegląd Elektro
 
 > **Wpis poświęcony publikacji**
 > 
-> [Publikacja zespołu KLASTER+ w Przeglądzie Elektrotechnicznym](/posts/publication-electrical-review/)
+> [Publikacja zespołu KLASTER+ w Przeglądzie Elektrotechnicznym]({{ '/posts/publication-electrical-review/' | relative_url }})
 {: .prompt-tip }
 
 ## Więcej informacji

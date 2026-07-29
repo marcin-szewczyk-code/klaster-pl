@@ -35,5 +35,5 @@ Artykuł powstał na podstawie referatu wygłoszonego przez **Michała Połeckie
 
 > **Materiały**
 >
-> - [Artykuł w numerze 7/2026 „Przeglądu Elektrotechnicznego”](/assets/posts/2026-07-21-publication-electrical-review/sebor-2026-wspolnoty-energetyczne-przyszlosci.pdf)
+> - [Artykuł w numerze 7/2026 „Przeglądu Elektrotechnicznego”]({{ '/assets/posts/2026-07-21-publication-electrical-review/sebor-2026-wspolnoty-energetyczne-przyszlosci.pdf' | relative_url }})
 {: .prompt-tip }
