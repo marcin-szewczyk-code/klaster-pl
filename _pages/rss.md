@@ -16,7 +16,7 @@ Serwis projektu **KLASTER+** udostępnia kanał **RSS (Atom)**. Dzięki niemu mo
 > 4. Wklej adres kanału i zatwierdź.
 {: .prompt-tip }
 
-Jeśli otworzysz link kanału w przeglądarce, może pojawić się plik XML. Jest to prawidłowe – kanał jest przeznaczony do obsługi przez czytniki RSS.
+Jeśli otworzysz link kanału w przeglądarce, może pojawić się zawartość pliku XML. Jest to prawidłowe – kanał jest przeznaczony do obsługi przez czytniki RSS.
 
 
 Od tej chwili nowe wpisy publikowane w zakładce **Aktualności** będą automatycznie pojawiać się w Twoim czytniku.
@@ -33,7 +33,7 @@ Kanał można dodać między innymi do:
 
 ## Przykładowy widok kanału
 
-Poniżej przedstawiono przykładowy widok kanału aktualności KLASTER+ w aplikacji RSS na urządzeniu mobilnym.
+Poniżej przedstawiono przykładowy widok kanału aktualności KLASTER+ w aplikacji RSS zainstalowanej na urządzeniu mobilnym.
 
-![Widok kanału RSS bloga w czytniku zainstalowanym w iPhone]({{ 'assets/pages/' | append: page.post_id | append: '/rss-feed-in-app.jpg' }})
-***Rys. 1.** Widok kanału RSS bloga w czytniku na iPhone.*
+![Widok kanału RSS strony KLASTER+ w czytniku zainstalowanym na iPhone]({{ 'assets/pages/' | append: page.post_id | append: '/rss-feed-in-app.jpg' }})
+***Rys. 1.** Widok kanału RSS strony KLASTER+ w czytniku zainstalowanym na iPhone.*
