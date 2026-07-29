@@ -5,7 +5,7 @@ permalink: /newsletter/
 layout: page
 ---
 
-Powiadomienia o nowych wpisach na blogu.
+Powiadomienia o nowych wpisach na stronie.
 
 Newsletter umożliwia otrzymywanie aktualizacji w sposób niezależny od zewnętrznych platform.
 
