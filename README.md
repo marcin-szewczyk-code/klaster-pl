@@ -30,6 +30,6 @@ Prawa do treści, publikacji, dokumentów, fotografii i pozostałych materiałó
 
 Motyw Chirpy jest udostępniany na warunkach licencji MIT.
 
-## Licencja
+## Opracowanie strony
 
 Initial KLASTER+ website setup and content by Marcin Szewczyk
