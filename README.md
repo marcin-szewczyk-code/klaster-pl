@@ -7,7 +7,7 @@ Strona prezentuje założenia projektu, jego Zespół i partnerów, aktualności
 Strona projektu:  
 👉 [marcin-szewczyk-code.github.io/klaster-pl](https://marcin-szewczyk-code.github.io/klaster-pl/)
 
-Repozytorium źródłowe
+Repozytorium źródłowe:  
 👉 [https://github.com/marcin-szewczyk-code/klaster-pl](https://github.com/marcin-szewczyk-code/klaster-pl)
 
 ---
