@@ -5,7 +5,15 @@ date: 2026-07-29 12:00:00 +0200
 pin: true
 ---
 
-Na **23 września 2026 r.** zaplanowano spotkanie kick-off inaugurujące realizację projektu **KLASTER+**. W wydarzeniu wezmą udział członkowie Zespołu, przedstawiciele partnerów projektu oraz zaproszeni goście.
+Na **22 września 2026 r.** zaplanowano spotkanie kick-off inaugurujące realizację projektu **KLASTER+**. W wydarzeniu wezmą udział członkowie Zespołu, przedstawiciele partnerów projektu oraz zaproszeni goście.
+
+## Zaproszenie
+
+Najważniejsze informacje dotyczące wydarzenia przedstawiono poniżej.
+
+![Zaproszenie na spotkanie kick-off projektu KLASTER+](/assets/posts/2026-07-29-klaster-plus-kick-off-meeting/kick-off-invitation.png)
+***Rys. 1.** Zaproszenie na spotkanie inaugurujące realizację projektu KLASTER+.*
+
 
 > Szczegółowe informacje organizacyjne oraz agenda spotkania zostaną przekazane uczestnikom po ich ostatecznym ustaleniu.
 {: .prompt-tip }
