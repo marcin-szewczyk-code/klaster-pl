@@ -6,18 +6,17 @@ permalink: /rss/
 post_id: rss
 ---
 
-Serwis projektu **KLASTER+** udostępnia kanał **RSS (Atom)**. Dzięki niemu możesz śledzić najnowsze aktualności bez konieczności regularnego odwiedzania strony.
+Serwis projektu **KLASTER+** udostępnia kanał **RSS (Atom)**. Dzięki niemu możesz śledzić aktualności bez konieczności regularnego odwiedzania strony.
 
 > **Jak dodać kanał RSS:**
 >
-> 1. Skopiuj [adres kanału KLASTER+]({{ '/feed.xml' | relative_url }}).
-> 2. Otwórz wybrany czytnik RSS.
+> 1. Zainstaluj i otwórz wybrany czytnik RSS.
+> 2. Skopiuj [adres kanału KLASTER+]({{ '/feed.xml' | relative_url }}).
 > 3. Wybierz opcję dodania nowego źródła lub subskrypcji.
 > 4. Wklej adres kanału i zatwierdź.
 {: .prompt-tip }
 
 Jeśli otworzysz link kanału w przeglądarce, może pojawić się zawartość pliku XML. Jest to prawidłowe – kanał jest przeznaczony do obsługi przez czytniki RSS.
-
 
 Od tej chwili nowe wpisy publikowane w zakładce **Aktualności** będą automatycznie pojawiać się w Twoim czytniku.
 
