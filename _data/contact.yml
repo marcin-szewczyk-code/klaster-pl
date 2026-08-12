@@ -2,7 +2,7 @@
 
 - type: website
   icon: fas fa-globe
-  url: https://klaster-plus.pw.edu.pl
+  url: https://klaster-plus.edu.pl
   noblank: true
 
 - type: linkedin
@@ -31,7 +31,7 @@
 
 #- type: custom
 #  icon: fas fa-language
-#  url: https://en.blog.marcinszewczyk.net
+#  url: https://en.klaster-plus.edu.pl/
 #  label: EN
 
 #- type: github

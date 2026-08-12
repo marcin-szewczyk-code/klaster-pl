@@ -1,7 +1,9 @@
 <!-- A placeholder to allow defining custom metadata -->
 
-{%- comment -%} hreflang for PL site (blog.marcinszewczyk.net) {%- endcomment -%}
+{% comment %}
+Enable after publishing the English version at https://en.klaster-plus.edu.pl/
 
 <link rel="alternate" hreflang="pl" href="{{ page.url | absolute_url }}" />
-<link rel="alternate" hreflang="en" href="{{ page.url | absolute_url | replace: site.url, 'https://en.blog.marcinszewczyk.net' }}" />
-<link rel="alternate" hreflang="x-default" href="https://en.blog.marcinszewczyk.net{{ page.url }}" />
+<link rel="alternate" hreflang="en" href="{{ page.url | absolute_url | replace: site.url, 'https://en.klaster-plus.edu.pl' }}" />
+<link rel="alternate" hreflang="x-default" href="https://klaster-plus.edu.pl{{ page.url }}" />
+{% endcomment %}

@@ -28,13 +28,9 @@ title: "KLASTER+"
 tagline: "Wspólnoty energetyczne przyszłości. Projekt NdRS." # it will display as the subtitle
 description: "Strona projektu KLASTER+: wspólnoty energetyczne przyszłości – integracja lokalnych OZE, magazynów energii i mikrosieci z siecią dystrybucyjną." # used by seo meta and the atom feed
 
-#description: >- # used by seo meta and the atom feed
-#  Notatki i zapiski o programowaniu, matematyce i budowie bloga w Jekyllu.
-
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-#url: "https://marcin-szewczyk-code.github.io"
 
 github:
   username: marcin-szewczyk-code # change to your GitHub username
@@ -49,7 +45,7 @@ social:
   email: # opcjonalnie, możesz zostawić puste albo usunąć linię
   links:
     # The first element serves as the copyright owner's link
-    - https://marcin-szewczyk-code.github.io/klaster-pl/
+    - https://klaster-plus.edu.pl/
     - https://github.com/marcin-szewczyk-code/klaster-pl
     # Uncomment below to add more social links
     # - https://twitter.com/username # change to your Twitter homepage

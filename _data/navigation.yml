@@ -18,8 +18,8 @@ tabs:
   - title: "PL"
     url: "/"
 
-  - title: "EN"
-    url: "https://en.blog.marcinszewczyk.net"
+#  - title: "EN"
+#    url: "https://en.klaster-plus.edu.pl/"
 
 bottom:
   - title: About

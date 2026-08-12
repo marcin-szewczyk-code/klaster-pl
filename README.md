@@ -5,7 +5,7 @@ Repozytorium strony internetowej projektu **KLASTER+ – Wspólnoty energetyczne
 Strona prezentuje założenia projektu, jego Zespół i partnerów, aktualności, realizowane działania oraz uzyskiwane rezultaty.
 
 Strona projektu:  
-👉 [marcin-szewczyk-code.github.io/klaster-pl](https://marcin-szewczyk-code.github.io/klaster-pl/)
+👉 [klaster-plus.edu.pl](https://klaster-plus.edu.pl/)
 
 Repozytorium źródłowe:  
 👉 [https://github.com/marcin-szewczyk-code/klaster-pl](https://github.com/marcin-szewczyk-code/klaster-pl)

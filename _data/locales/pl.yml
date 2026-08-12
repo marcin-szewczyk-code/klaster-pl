@@ -71,8 +71,8 @@ meta: "Generator:&nbsp;:PLATFORM · Motyw:&nbsp;:THEME · Licencja:&nbsp;:COPYRI
 
 
 #meta:
-#  title: Blog
-#  description: Blog oparty na Jekyll i motywie Chirpy
+#  title:
+#  description:
 
 copyright:
   author: Autor

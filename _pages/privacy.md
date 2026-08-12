@@ -1,6 +1,6 @@
 ---
 title: Polityka prywatności
-description: "Informacja o przetwarzaniu danych na blogu: wykorzystanie Google Analytics (GA4) wyłącznie do celów statystycznych oraz brak profilowania i działań marketingowych."
+description: "Informacja o przetwarzaniu danych w serwisie projektu KLASTER+: wykorzystanie Google Analytics (GA4) wyłącznie do celów statystycznych oraz brak profilowania i działań marketingowych."
 layout: page
 permalink: /privacy/
 ---

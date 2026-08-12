@@ -1,6 +1,6 @@
 ---
 title: Newsletter
-description: Powiadomienia o nowych wpisach na blogu.
+description: Powiadomienia o nowych aktualnościach na stronie projektu KLASTER+.
 permalink: /newsletter/
 layout: page
 ---

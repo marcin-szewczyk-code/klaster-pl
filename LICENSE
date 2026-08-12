@@ -1,7 +1,7 @@
 This repository contains two distinct types of material:
 
 1. Source code (including theme files, configuration, layouts, and custom modifications)
-2. Editorial content (including blog posts, articles, and original illustrations)
+2. Project content (including news posts, articles, documents, photographs, logos, and original illustrations)
 
 --------------------------------------------------------------------
 
@@ -32,13 +32,15 @@ SOFTWARE.
 
 --------------------------------------------------------------------
 
-EDITORIAL CONTENT
+PROJECT CONTENT
 
-All blog posts, written articles, and original illustrations contained in this
-repository are © Marcin Szewczyk.
+The MIT License applies only to the source code and does not apply to the
+project content.
 
-All rights reserved.
+Copyright in texts, articles, publications, documents, photographs,
+illustrations, logos, and other materials belongs to their respective authors
+or other rights holders identified in the website or in the source materials.
 
-No part of the editorial content may be reproduced, distributed, or modified
-without prior written permission of the author, except as permitted under
-applicable copyright law (including quotation rights).
+Unless expressly stated otherwise, all rights are reserved. Project content
+may not be reproduced, distributed, or modified without permission from the
+applicable rights holder, except as permitted under applicable copyright law.
