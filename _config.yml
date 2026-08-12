@@ -2,7 +2,7 @@
 
 # Technical GitHub Pages address
 url: "https://marcin-szewczyk-code.github.io"
-baseurl: "/klaster-pl"
+baseurl: ""
 
 # Do not publish posts before their publication date
 future: false
