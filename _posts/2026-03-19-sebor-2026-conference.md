@@ -26,11 +26,15 @@ Autorzy referatu:
 - Robert Wójtowicz,
 - Kamil Przygoda.
 
+Prezentacja z referatu wygłoszonego przez **Michała Połeckiego** podczas konferencji jest dostępna do pobrania w formacie PDF:
+
+[**Pobierz prezentację z konferencji SEBOR’26 (PDF)**]({{ '/assets/posts/2026-03-19-sebor-2026-conference/sebor-2026-wspolnoty-energetyczne-prezentacja.pdf' | relative_url }})
+
 W konferencji uczestniczyli **Michał Połecki**, **Kamil Przygoda** i **Marcin Szewczyk**.
 
 Podczas konferencji **Marcin Szewczyk** prowadził także sesję problemową IIIa **„Stabilność i synchronizacja systemu”**.
 
-![Prowadzenie sesji „Stabilność i synchronizacja systemu” podczas konferencji SEBOR’26.](/assets/posts/2026-03-19-sebor-2026-conference/sebor-2026-marcin-szewczyk-session-chair.webp)
+![Marcin Szewczyk podczas prowadzenia sesji „Stabilność i synchronizacja systemu” na konferencji SEBOR’26](/assets/posts/2026-03-19-sebor-2026-conference/sebor-2026-marcin-szewczyk-session-chair.webp)
 ***Rys. 2.** Prowadzenie sesji „Stabilność i synchronizacja systemu” podczas konferencji SEBOR’26.*
 
 ## O konferencji
