@@ -28,7 +28,7 @@ Autorzy referatu:
 
 Prezentacja z referatu wygłoszonego przez **Michała Połeckiego** podczas konferencji jest dostępna do pobrania w formacie PDF:
 
-[**Pobierz prezentację z konferencji SEBOR’26 (PDF)**]({{ '/assets/posts/2026-03-19-sebor-2026-conference/sebor-2026-wspolnoty-energetyczne-prezentacja.pdf' | relative_url }})
+[**Pobierz prezentację z konferencji SEBOR’26 (PDF)**]({{ '/assets/posts/2026-03-19-sebor-2026-conference/sebor-2026-michal-polecki-wspolnoty-energetyczne-slides.pdf' | relative_url }})
 
 W konferencji uczestniczyli **Michał Połecki**, **Kamil Przygoda** i **Marcin Szewczyk**.
 
