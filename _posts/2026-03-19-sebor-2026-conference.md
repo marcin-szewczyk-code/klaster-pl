@@ -28,6 +28,11 @@ Autorzy referatu:
 
 W konferencji uczestniczyli **Michał Połecki**, **Kamil Przygoda** i **Marcin Szewczyk**.
 
+Podczas konferencji **Marcin Szewczyk** prowadził także sesję problemową IIIa **„Stabilność i synchronizacja systemu”**.
+
+![Prowadzenie sesji „Stabilność i synchronizacja systemu” podczas konferencji SEBOR’26.](/assets/posts/2026-03-19-sebor-2026-conference/sebor-2026-marcin-szewczyk-session-chair.webp)
+***Rys. 2.** Prowadzenie sesji „Stabilność i synchronizacja systemu” podczas konferencji SEBOR’26.*
+
 ## O konferencji
 
 SEBOR jest konferencją poświęconą bezpieczeństwu operacyjnemu i rynkowemu systemu elektroenergetycznego. W edycji SEBOR’26 uczestniczyło około 150 osób, a w jej programie znalazło się 30 referatów dotyczących między innymi stabilności systemu elektroenergetycznego, integracji OZE, elastyczności, sterowania oraz regulacji rynkowych.
