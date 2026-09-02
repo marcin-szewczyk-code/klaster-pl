@@ -26,7 +26,7 @@ Autorzy referatu:
 - Robert Wójtowicz,
 - Kamil Przygoda.
 
-Prezentacja z referatu wygłoszonego przez **Michała Połeckiego** podczas konferencji jest dostępna do pobrania w formacie PDF:
+Prezentację przedstawioną przez **Michała Połeckiego** podczas konferencji można pobrać w formacie PDF:
 
 [**Pobierz prezentację z konferencji SEBOR’26 (PDF)**]({{ '/assets/posts/2026-03-19-sebor-2026-conference/sebor-2026-michal-polecki-wspolnoty-energetyczne-slides.pdf' | relative_url }})
 
