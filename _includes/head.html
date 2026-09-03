@@ -155,10 +155,16 @@
 <!-- End MailerLite Universal -->
 
 <!-- AllAccessible Accessibility Widget -->
+
 <script>
-window.AllAccessibleConfig = {
-    language: 'pl'
-};
+(function() {
+    var initializationKey = 'klaster-plus-allaccessible-language-initialized';
+
+    if (!localStorage.getItem(initializationKey)) {
+        localStorage.setItem('aacx-settings-language', 'pl');
+        localStorage.setItem(initializationKey, 'true');
+    }
+})();
 </script>
 
 <script>
