@@ -50,7 +50,7 @@ Za każdą innowacją stoją ludzie, wiedza, ciągłe uczenie się, wymiana doś
 Dziękujemy ekspertom **Elektrometal Energetyka S.A.** za przekazaną wiedzę, praktyczne wskazówki oraz możliwość poznania rozwiązań, które mogą wspierać budowę nowoczesnych systemów zarządzania energią w społecznościach lokalnych.
 
 **Zespół KLASTER+:**  
-[Tadeusz Daszczyński](https://www.linkedin.com/in/ttadeusz-daszczynski/)  
+[Tadeusz Daszczyński](https://www.linkedin.com/in/tadeusz-daszczynski/)  
 [Marcin Szewczyk](https://www.linkedin.com/in/marcin-szewczyk/)  
 [Kamil Przygoda](https://www.linkedin.com/in/kamil-przygoda-4bb736232/)  
 [Michał Połecki](https://www.linkedin.com/in/micha%C5%82-po%C5%82ecki-72b714a9/)  
