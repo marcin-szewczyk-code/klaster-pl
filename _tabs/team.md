@@ -8,7 +8,7 @@ order: 3
 
 Projekt KLASTER+ realizuje siedmioosobowy zespół z **Wydziału Elektrycznego Politechniki Warszawskiej**, łączący kompetencje z zakresu systemów elektroenergetycznych, aparatów elektrycznych i rozdzielnic, mikrosieci, automatyki, sterowania, infrastruktury badawczej oraz implementacji rozwiązań w sterownikach polowych.
 
-![Zespół projektu KLASTER+](/assets/pages/team/team.png)
+![Zespół projektu KLASTER+](/assets/pages/team/team.webp)
 *Zespół projektu KLASTER+, fot. Julia Kwiecińska*
 
 <div style="display:flex; flex-wrap:wrap; gap:28px; align-items:flex-start; margin:2rem 0;">
