@@ -196,11 +196,11 @@ Dziękujemy wszystkim gościom, partnerom oraz uczestnikom spotkania za obecnoś
 
 <div style="display:flex; justify-content:center; align-items:center; gap:60px; margin:1.5rem 0 1.2rem 0;">
 
-<img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/we-1.webp"
+<img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/we-1.png"
      alt="Politechnika Warszawska – Wydział Elektryczny"
      style="height:100px; width:auto; max-width:none;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/elektrometal.webp"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/elektrometal.png"
        alt="Elektrometal Energetyka S.A."
        style="height:75px; width:auto; max-width:none;">
 
@@ -208,11 +208,11 @@ Dziękujemy wszystkim gościom, partnerom oraz uczestnikom spotkania za obecnoś
 
 <div style="display:flex; justify-content:center; align-items:center; gap:70px; margin:0.8rem 0 1.2rem 0;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/cezamat-2.webp"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/cezamat-2.png"
        alt="CEZAMAT Hub of Power"
        style="height:95px; width:auto; max-width:none;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/esahub.webp"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/esahub.png"
        alt="ESA Hub"
        style="height:65px; width:auto; max-width:none;">
 
@@ -220,7 +220,7 @@ Dziękujemy wszystkim gościom, partnerom oraz uczestnikom spotkania za obecnoś
 
 <div style="display:flex; justify-content:center; align-items:center; margin:0.8rem 0 2rem 0;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/enh2o.webp"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/enh2o.png"
        alt="EnH2O"
        style="height:80px; width:auto; max-width:none;">
 
@@ -230,11 +230,11 @@ Dziękujemy wszystkim gościom, partnerom oraz uczestnikom spotkania za obecnoś
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:55px; margin:1.4rem 0 1.5rem 0;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/mnisw.webp"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/mnisw.png"
        alt="Minister Nauki i Szkolnictwa Wyższego"
        style="height:80px; width:auto; max-width:none;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/ndrs.webp"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/ndrs.png"
        alt="Nauka dla Rozwoju Społeczeństwa"
        style="height:80px; width:auto; max-width:none;">
 
