@@ -2,26 +2,17 @@
 # the default layout is 'page'
 icon: fas fa-building
 title: Partnerzy projektu
-order: 3
+order: 4
 ---
 
 Projekt KLASTER+ bazuje na współpracy nauki i przemysłu. Realizowany jest przez **Politechnikę Warszawską** we współpracy z partnerami posiadającymi doświadczenie w zakresie mikrosieci, infrastruktury energetycznej, automatyki elektroenergetycznej oraz eksploatacji sieci dystrybucyjnych.
 
 Połączenie zaplecza naukowego z wiedzą techniczną i doświadczeniem przemysłowym umożliwia przeprowadzenie prac od analizy danych i modelowania aż do budowy, przetestowania i demonstracji prototypowego rozwiązania.
 
-<div style="text-align: center;">
-  <img
-    src="/assets/pages/consortium/project-partners.png"
-    alt="Partnerzy projektu KLASTER+"
-    style="width: 500px; max-width: 100%; border: 1px solid #ccc; padding: 4px; border-radius: 4px;"
-  >
-<p style="text-align: center; font-size: 0.8rem; color: #6c757d; margin-top: 0.4rem;">
-  <strong>Rys 1.</strong> Partnerzy projektu KLASTER+.</p>
-</div>
+![Partnerzy projektu KLASTER+](/assets/pages/consortium/project-partners-pl.png)
+*Partnerzy projektu KLASTER+*
 
-
-
-> **Oficjalne strony partnerów**
+> **Strony internetowe partnerów**
 >
 > - [Politechnika Warszawska](https://www.pw.edu.pl/)
 > - [Elektrometal Energetyka S.A.](https://elektrometal-energetyka.pl/)

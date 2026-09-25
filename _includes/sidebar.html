@@ -42,7 +42,15 @@
       </li>
     {% endfor %}
 
-    <!-- second real tab -->
+    <!-- AKTUALNOŚCI -->
+    <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
+      <a href="{{ '/' | relative_url }}" class="nav-link">
+        <i class="fa-fw fas fa-bell"></i>
+        <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
+      </a>
+    </li>
+
+    <!-- third real tab -->
     {% for tab in site.tabs offset: 1 limit: 1 %}
       <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
         <a href="{{ tab.url | relative_url }}" class="nav-link">
@@ -52,14 +60,6 @@
         </a>
       </li>
     {% endfor %}
-
-    <!-- AKTUALNOŚCI -->
-    <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
-      <a href="{{ '/' | relative_url }}" class="nav-link">
-        <i class="fa-fw fas fa-bell"></i>
-        <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
-      </a>
-    </li>
 
     <!-- remaining real tabs -->
     {% for tab in site.tabs offset: 2 %}

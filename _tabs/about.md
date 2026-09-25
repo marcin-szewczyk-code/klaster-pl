@@ -11,15 +11,9 @@ Pełna nazwa projektu brzmi:
 
 Projekt odpowiada na jedno z najważniejszych wyzwań współczesnej energetyki: bezpieczną i efektywną integrację lokalnych odnawialnych źródeł energii z sieciami dystrybucyjnymi.
 
-<div style="text-align: center;">
-  <img
-    src="/assets/pages/about/concept.png"
-    alt="Koncepcja projektu KLASTER+"
-    style="width: 500px; max-width: 100%; border: 0px solid #ccc; padding: 4px; border-radius: 4px;"
-  >
-<p style="text-align: center; font-size: 0.8rem; color: #6c757d; margin-top: 0.4rem;">
-  <strong>Rys 1.</strong> Koncepcja projektu KLASTER+.</p>
-</div>
+![Cele projektu KLASTER+](/assets/pages/about/project-objectives-pl.png)
+***Rys. 1** Cele projektu KLASTER+.*
+
 
 ## Projekt w liczbach
 
@@ -81,4 +75,27 @@ Projekt łączy prace naukowe z praktycznym wdrożeniem opracowanej technologii.
 
 Lepsze wykorzystanie energii wytwarzanej lokalnie może ograniczać koszty energii, zwiększać bezpieczeństwo energetyczne i wzmacniać odporność lokalnych sieci. Projekt obejmuje również działania edukacyjne i popularyzatorskie zwiększające wiedzę na temat energetyki rozproszonej oraz korzyści wynikających z wykorzystania OZE.
 
-Praca naukowa finansowana ze środków budżetu państwa w ramach programu Ministra Nauki i Szkolnictwa Wyższego pod nazwą **„Nauka dla Rozwoju Społeczeństwa”**. Nr projektu: **NdRS/SP/0189/2025/01**; całkowita wartość projektu: **1 999 757,15 zł**.
+## Finansowanie
+
+Projekt finansowany ze środków budżetu państwa, przyznany przez **Ministra Nauki i Szkolnictwa Wyższego** w ramach programu **„Nauka dla Rozwoju Społeczeństwa”**. Nr projektu: **NdRS/SP/0189/2025/01**; całkowita wartość projektu: **1 999 757,15 zł**.
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:55px; margin:1.4rem 0 1.5rem 0;">
+
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/mnisw.png"
+       alt="Minister Nauki i Szkolnictwa Wyższego"
+       style="height:80px; width:auto; max-width:none;">
+
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/ndrs.png"
+       alt="Nauka dla Rozwoju Społeczeństwa"
+       style="height:80px; width:auto; max-width:none;">
+
+</div>
+
+> **Więcej informacji**
+>
+> 👉 Projekt i aktualności: [**klaster-plus.pw.edu.pl**](https://klaster-plus.edu.pl/).
+>
+> 🔔 Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+>
+> 📌 Kontakt w sprawie projektu: **dr inż. Tadeusz Daszczyński** – [LinkedIn](https://pl.linkedin.com/in/tadeusz-daszczynski)
+{: .prompt-tip }

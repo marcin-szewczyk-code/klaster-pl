@@ -2,7 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-flask
 title: Rezultaty
-order: 4
+order: 5
 ---
 
 Na tej stronie prezentujemy opracowane rozwiązania, publikacje  oraz inne rezultaty związane z realizacją projektu **KLASTER+**. Strona będzie uzupełniana wraz z postępem prac.

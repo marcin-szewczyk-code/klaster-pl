@@ -33,4 +33,25 @@ Projekt realizuje **Politechnika Warszawska** we współpracy z partnerami repre
 
 ## Finansowanie
 
-Praca naukowa finansowana ze środków budżetu państwa w ramach programu Ministra Nauki i Szkolnictwa Wyższego pod nazwą **„Nauka dla Rozwoju Społeczeństwa”**. Nr projektu: **NdRS/SP/0189/2025/01**.
+Projekt finansowany ze środków budżetu państwa, przyznany przez **Ministra Nauki i Szkolnictwa Wyższego** w ramach programu **„Nauka dla Rozwoju Społeczeństwa”**. Nr projektu: **NdRS/SP/0189/2025/01**; całkowita wartość projektu: **1 999 757,15 zł**.
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:55px; margin:1.4rem 0 1.5rem 0;">
+
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/mnisw.png"
+       alt="Minister Nauki i Szkolnictwa Wyższego"
+       style="height:80px; width:auto; max-width:none;">
+
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/ndrs.png"
+       alt="Nauka dla Rozwoju Społeczeństwa"
+       style="height:80px; width:auto; max-width:none;">
+
+</div>
+
+> **Więcej informacji**
+>
+> 👉 Projekt i aktualności: [**klaster-plus.pw.edu.pl**](https://klaster-plus.edu.pl/).
+>
+> 🔔 Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+>
+> 📌 Kontakt w sprawie projektu: **dr inż. Tadeusz Daszczyński** – [LinkedIn](https://pl.linkedin.com/in/tadeusz-daszczynski)
+{: .prompt-tip }
