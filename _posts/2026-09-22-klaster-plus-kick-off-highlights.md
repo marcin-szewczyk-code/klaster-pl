@@ -192,7 +192,7 @@ W podsumowaniu spotkania **dr inż. Tadeusz Daszczyński** nawiązał do wypowie
 
 ## Podziękowania
 
-Dziękujemy wszystkim gościom, partnerom oraz uczestnikom spotkania za obecność, zaangażowanie i wspólne rozpoczęcie projektu KLASTER+.
+Dziękujemy wszystkim uczestnikom spotkania za obecność, zaangażowanie i wspólne rozpoczęcie projektu KLASTER+.
 
 ### Lider i partnerzy projektu
 
