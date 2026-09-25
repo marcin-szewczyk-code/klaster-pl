@@ -152,10 +152,10 @@ W trakcie spotkania uczestnicy mieli kilka okazji do dyskusji i bezpośredniej w
 *Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; dr inż. Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; dr inż. Tadeusz Daszczyński z Wydziału Elektrycznego Politechniki Warszawskiej, kierownik projektu KLASTER+, fot. KLASTER+*
 
 ![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-2.webp)
-*Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; dr inż. Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW; dr inż. Tadeusz Daszczyński i mgr inż. Michał Połecki z Wydziału Elektrycznego Politechniki Warszawskiej, fot. KLASTER+*
+*Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; dr inż. Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; dr inż. Tadeusz Daszczyński i mgr inż. Michał Połecki z Wydziału Elektrycznego Politechniki Warszawskiej, fot. KLASTER+*
 
 ![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-3.webp)
-*Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; dr inż. Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW; dr inż. Tadeusz Daszczyński i mgr inż. Michał Połecki z Wydziału Elektrycznego Politechniki Warszawskiej, fot. KLASTER+*
+*Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; dr inż. Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; dr inż. Tadeusz Daszczyński i mgr inż. Michał Połecki z Wydziału Elektrycznego Politechniki Warszawskiej, fot. KLASTER+*
 
 ![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-4.webp)
 *Dyskusja z udziałem uczestników spotkania, fot. Julia Kwiecińska*
@@ -165,7 +165,7 @@ W trakcie spotkania uczestnicy mieli kilka okazji do dyskusji i bezpośredniej w
 
 ## Demonstracje techniczne
 
-Ostatnia część wydarzenia miała charakter techniczny. Uczestnicy mogli zapoznać się ze **stanowiskiem sterownika polowego firmy Elektrometal Energetyka S.A.** oraz z infrastrukturą i rozwiązaniami wykorzystywanymi przez partnerów projektu – **ESA Hub Sp. z o.o.** i **CEZAMAT PW**. Podczas demonstracji omawiane wcześniej założenia projektu można było odnieść do rzeczywistych urządzeń i infrastruktury badawczej.
+Ostatnia część wydarzenia miała charakter techniczny. Uczestnicy mogli zapoznać się z infrastrukturą i rozwiązaniami wykorzystywanymi przez partnerów projektu – **ESA Hub Sp. z o.o.** i **CEZAMAT PW** – oraz ze **stanowiskiem sterownika polowego firmy Elektrometal Energetyka S.A.**. Podczas demonstracji omawiane wcześniej założenia projektu można było odnieść do rzeczywistych urządzeń i infrastruktury badawczej.
 
 ![Uczestnicy podczas części demonstracyjnej spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/all-demo.webp)
 *Uczestnicy podczas części demonstracyjnej spotkania, fot. KLASTER+*
