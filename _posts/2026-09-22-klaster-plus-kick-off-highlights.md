@@ -17,7 +17,7 @@ Ważnym elementem spotkania było budowanie środowiska **współpracy nauki i p
 >
 > 👉 Wkrótce: nagranie wykładu na YouTube i fotorelacja ze spotkania.
 >
-> 🔔 Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+> 🔔 Newsletter:    **zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
 {: .prompt-tip }
 
 ## Otwarcie spotkania
@@ -26,13 +26,13 @@ Gospodarzem spotkania był **dr inż. Tadeusz Daszczyński** z Wydziału Elektry
 
 Jako pierwszy wystąpił **prof. dr hab. inż. Andrzej Dzieliński**, Dziekan Wydziału Elektrycznego Politechniki Warszawskiej. W swoim wystąpieniu odniósł się do wyzwań związanych z rozwojem energetyki rozproszonej, integracją odnawialnych źródeł energii i magazynów energii oraz podkreślił znaczenie projektu i szerokiego grona współpracujących partnerów.
 
-![Otwarcie spotkania inaugurującego projekt KLASTER+ przez dr. inż. Tadeusza Daszczyńskiego](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/td-ad.png)
+![Otwarcie spotkania inaugurującego projekt KLASTER+ przez dr. inż. Tadeusza Daszczyńskiego](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/td-ad.webp)
 *Otwarcie spotkania inaugurującego projekt KLASTER+ przez dr. inż. Tadeusza Daszczyńskiego oraz wystąpienie prof. dr. hab. inż. Andrzeja Dzielińskiego, Dziekana Wydziału Elektrycznego PW, fot. Julia Kwiecińska.*
 
-![Wystąpienie Dziekana Wydziału Elektrycznego PW prof. dr. hab. inż. Andrzeja Dzielińskiego](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/andrzej-dzielinski.jpg)
+![Wystąpienie Dziekana Wydziału Elektrycznego PW prof. dr. hab. inż. Andrzeja Dzielińskiego](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/andrzej-dzielinski.webp)
 *Wystąpienie Dziekana Wydziału Elektrycznego PW prof. dr. hab. inż. Andrzeja Dzielińskiego, fot. Julia Kwiecińska*
 
-![Uczestnicy spotkania inaugurującego projekt KLASTER+](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/grupowe.jpg)
+![Uczestnicy spotkania inaugurującego projekt KLASTER+](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/grupowe.webp)
 *Uczestnicy spotkania inaugurującego projekt KLASTER+, fot. Julia Kwiecińska*
 
 Głos zabrali następnie **Łukasz Madej**, Prezes Zarządu ESA Hub Sp. z o.o., **Aleksandra Mościcka-Studzińska**, Zastępca Dyrektora CEZAMAT PW, oraz **Paweł Krogulec**, Dyrektor Operacyjny Elektrometal Energetyka S.A.
@@ -48,14 +48,14 @@ W spotkaniu uczestniczyli także inni przedstawiciele Wydziału Elektrycznego PW
 
 -->
 
-![Wystąpienie Pawła Krogulca, Dyrektora Operacyjnego Elektrometal Energetyka S.A.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/krogulec.png)
+![Wystąpienie Pawła Krogulca, Dyrektora Operacyjnego Elektrometal Energetyka S.A.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/krogulec.webp)
 *Wystąpienie Pawła Krogulca, Dyrektora Operacyjnego Elektrometal Energetyka S.A., fot. KLASTER+*
 
 ## Miniwykład: na styku mikrosieci i systemu
 
 W pierwszej części spotkania, przed przedstawieniem założeń projektu KLASTER+, **dr inż. Tadeusz Daszczyński** wygłosił krótki wykład wprowadzający, poświęcony wyzwaniom transformacji energetycznej oraz roli mikrosieci i lokalnych źródeł OZE w zmieniającym się systemie elektroenergetycznym.
 
-![Miniwykład otwierający spotkanie](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/tadeusz-daszczynski-1.jpg)
+![Miniwykład otwierający spotkanie](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/tadeusz-daszczynski-1.webp)
 *Miniwykład otwierający spotkanie, fot. Julia Kwiecińska*
 
 Punktem wyjścia były rosnąca skala ograniczeń generacji ze źródeł odnawialnych, społeczno-gospodarczy wymiar ubóstwa energetycznego oraz potrzeba lepszego wykorzystania lokalnie wytwarzanej energii. Wskazano również na lukę technologiczną na styku mikrosieci i sieci OSD, wynikającą z braku aktywnego zarządzania i skoordynowanej wymiany informacji pomiędzy tymi obszarami.
@@ -68,18 +68,18 @@ Następnie **dr inż. Tadeusz Daszczyński** przedstawił założenia projektu K
 
 W dalszej części prezentacji **mgr inż. Michał Połecki** przedstawił program badań dotyczących współpracy mikrosieci z siecią OSD. Zaprezentował plan przejścia od danych i modeli obiektów referencyjnych, przez analizę wariantów współpracy, dobór kryteriów oceny i opracowanie algorytmów, do badań symulacyjnych oraz sformułowania wymagań dla sterownika polowego.
 
-![Program badań projektu KLASTER+ prezentowany przez mgr. inż. Michała Połeckiego](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/michal-polecki-1.jpg)
+![Program badań projektu KLASTER+ prezentowany przez mgr. inż. Michała Połeckiego](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/michal-polecki-1.webp)
 *Program badań projektu KLASTER+ prezentowany przez mgr. inż. Michała Połeckiego, fot. Julia Kwiecińska*
 
 Po prezentacji programu badań swoje instytucje i obszary działalności zaprezentowali partnerzy projektu: **ESA Hub Sp. z o.o.**, reprezentowana przez Prezesa Zarządu Łukasza Madeja, **CEZAMAT PW**, reprezentowany przez Zastępcę Dyrektora Aleksandrę Mościcką-Studzińską, oraz **Elektrometal Energetyka S.A.**, reprezentowany przez **Waldemara Chmielaka, kierownika działu R&D**.
 
-![Łukasz Madej, Prezes Zarządu ESA Hub Sp. z o.o.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/madej-prezentacja.png)
+![Łukasz Madej, Prezes Zarządu ESA Hub Sp. z o.o.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/madej-prezentacja.webp)
 *Łukasz Madej, Prezes Zarządu, podczas prezentacji ESA Hub Sp. z o.o., fot. KLASTER+*
 
-![Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/aleksandra-prezentacja.png)
+![Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/aleksandra-prezentacja.webp)
 ***Fot. 7.** Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW, podczas prezentacji CEZAMAT PW., fot. KLASTER+*
 
-![Waldemar Chmielak, Kierownik działu R&D w Elektrometal Energetyka S.A.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/chmielak-prezentacja.png)
+![Waldemar Chmielak, Kierownik działu R&D w Elektrometal Energetyka S.A.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/chmielak-prezentacja.webp)
 *Waldemar Chmielak, kierownik działu R&D, podczas prezentacji Elektrometal Energetyka S.A., fot. KLASTER+*
 
 ## Rozmowy i współpraca
@@ -88,16 +88,16 @@ Po pierwszej części programu odbyła się przerwa kawowa, która była okazją
 
 KLASTER+ ma być nie tylko projektem technologicznym, ale również formą trwałej współpracy pomiędzy zespołem badawczym a partnerami przemysłowymi. Ambicją zespołu jest, aby współpraca i doświadczenia zdobyte podczas realizacji projektu stały się podstawą kolejnych wspólnych przedsięwzięć badawczo-rozwojowych oraz dalszych wdrożeń.
 
-![Rozmowy uczestników podczas przerwy kawowej](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/kawa-1.png)
+![Rozmowy uczestników podczas przerwy kawowej](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/kawa-1.webp)
 *Rozmowy uczestników podczas przerwy kawowej, fot. KLASTER+*
 
-![Rozmowy uczestników podczas przerwy kawowej](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/kawa-2.png)
+![Rozmowy uczestników podczas przerwy kawowej](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/kawa-2.webp)
 *Rozmowy uczestników podczas przerwy kawowej, fot. KLASTER+*
 
-![Rozmowy uczestników podczas przerwy kawowej](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/kawa-3.png)
+![Rozmowy uczestników podczas przerwy kawowej](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/kawa-3.webp)
 *Rozmowy uczestników podczas przerwy kawowej, fot. KLASTER+*
 
-![Poczęstunek podczas przerwy kawowej](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/kawa-4.png)
+![Poczęstunek podczas przerwy kawowej](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/kawa-4.webp)
 *Poczęstunek podczas przerwy kawowej, fot. KLASTER+*
 
 ## Zespół KLASTER+
@@ -118,66 +118,66 @@ Po przerwie zaprezentowano zespół projektu KLASTER+ oraz zakres odpowiedzialno
 
 - **dr inż. Szymon Stoczko** – odpowiedzialny za opracowanie architektury rozwiązania, implementację funkcji sterowania i komunikacji w sterowniku polowym oraz jego uruchomienie i weryfikację, w tym testy fizycznego sterownika we współpracy z modelem mikrosieci w środowisku Hardware-in-the-Loop.
 
-![Tadeusz Daszczyński](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-tadeusz-daszczynski.jpg)
+![Tadeusz Daszczyński](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-tadeusz-daszczynski.webp)
 ***Fot. 13.** Tadeusz Daszczyński podczas prezentacji zespołu KLASTER+, fot. Julia Kwiecińska*
 
 <!--
-![Marcin Szewczyk](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/foto-01.png)
+![Marcin Szewczyk](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/foto-01.webp)
 *Marcin Szewczyk podczas prezentacji zakresu odpowiedzialności w projekcie.*
 
-![Kamil Przygoda](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/foto-01.png)
+![Kamil Przygoda](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/foto-01.webp)
 *Kamil Przygoda podczas prezentacji zakresu odpowiedzialności w projekcie.*
 
 -->
 
-![Robert Wójtowicz](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-robert-wojtowicz.png)
+![Robert Wójtowicz](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-robert-wojtowicz.webp)
 *Robert Wójtowicz podczas prezentacji zakresu odpowiedzialności w projekcie, fot. KLASTER+*
 
-![Łukasz Rokicki](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-lukasz-rokicki.png)
+![Łukasz Rokicki](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-lukasz-rokicki.webp)
 *Łukasz Rokicki podczas prezentacji zakresu odpowiedzialności w projekcie, fot. KLASTER+*
 
-![Michał Połecki](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-michal-polecki.png)
+![Michał Połecki](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-michal-polecki.webp)
 *Michał Połecki podczas prezentacji zakresu odpowiedzialności w projekcie, fot. KLASTER+*
 
-![Szymon Stoczko](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-szymon-stoczko.png)
+![Szymon Stoczko](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-szymon-stoczko.webp)
 *Szymon Stoczko podczas prezentacji zakresu odpowiedzialności w projekcie, fot. KLASTER+*
 
 ## Dyskusja
 
 W trakcie spotkania uczestnicy mieli kilka okazji do dyskusji i bezpośredniej wymiany doświadczeń, zarówno przed rozpoczęciem części oficjalnej, jak i po prezentacji zespołu KLASTER+. Rozmowy dotyczyły kierunków dalszych prac oraz najważniejszych wyzwań technicznych projektu.
 
-![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-1.png)
+![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-1.webp)
 *Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; dr inż. Tadeusz Daszczyński z Wydziału Elektrycznego Politechniki Warszawskiej, kierownik projektu KLASTER+, fot. KLASTER+*
 
-![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-2.png)
+![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-2.webp)
 *Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW; dr inż. Tadeusz Daszczyński i mgr inż. Michał Połecki z Wydziału Elektrycznego Politechniki Warszawskiej, fot. KLASTER+*
 
-![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-3.png)
+![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-3.webp)
 *Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW; dr inż. Tadeusz Daszczyński i mgr inż. Michał Połecki z Wydziału Elektrycznego Politechniki Warszawskiej, fot. KLASTER+*
 
-![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-4.png)
+![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-4.webp)
 *Dyskusja z udziałem uczestników spotkania, fot. Julia Kwiecińska*
 
-![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-5.png)
+![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-5.webp)
 *Dyskusja z udziałem uczestników spotkania, fot. KLASTER+*
 
 ## Demonstracje techniczne
 
 Ostatnia część wydarzenia miała charakter techniczny. Uczestnicy mogli zapoznać się ze **stanowiskiem sterownika polowego firmy Elektrometal Energetyka S.A.** oraz z infrastrukturą i rozwiązaniami wykorzystywanymi przez partnerów projektu – **ESA Hub Sp. z o.o.** i **CEZAMAT PW**. Podczas demonstracji omawiane wcześniej założenia projektu można było odnieść do rzeczywistych urządzeń i infrastruktury badawczej.
 
-![Uczestnicy podczas części demonstracyjnej spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/all-demo.png)
+![Uczestnicy podczas części demonstracyjnej spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/all-demo.webp)
 *Uczestnicy podczas części demonstracyjnej spotkania, fot. KLASTER+*
 
-![Rozmowy w trakcie części demonstracyjnej spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/td-waldek-2.png)
+![Rozmowy w trakcie części demonstracyjnej spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/td-waldek-2.webp)
 *Rozmowy w trakcie części demonstracyjnej spotkania, fot. KLASTER+*
 
-![Prezentacja infrastruktury CEZAMAT PW](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/m-td.png)
+![Prezentacja infrastruktury CEZAMAT PW](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/m-td.webp)
 *Prezentacja infrastruktury CEZAMAT PW, fot. KLASTER+*
 
-![Prezentacja infrastruktury ESA Hub Sp. z o.o.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/all-2.png)
+![Prezentacja infrastruktury ESA Hub Sp. z o.o.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/all-2.webp)
 *Prezentacja infrastruktury ESA Hub Sp. z o.o., fot. KLASTER+*
 
-![Demonstracja stanowiska sterownika polowego Elektrometal Energetyka S.A.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/demonstrator-sterownik.png)
+![Demonstracja stanowiska sterownika polowego Elektrometal Energetyka S.A.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/demonstrator-sterownik.webp)
 *Demonstracja stanowiska sterownika polowego Elektrometal Energetyka S.A., fot. KLASTER+*
 
 ## Podsumowanie
@@ -196,11 +196,11 @@ Dziękujemy wszystkim gościom, partnerom oraz uczestnikom spotkania za obecnoś
 
 <div style="display:flex; justify-content:center; align-items:center; gap:60px; margin:1.5rem 0 1.2rem 0;">
 
-<img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/we-1.png"
+<img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/we-1.webp"
      alt="Politechnika Warszawska – Wydział Elektryczny"
      style="height:100px; width:auto; max-width:none;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/elektrometal.png"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/elektrometal.webp"
        alt="Elektrometal Energetyka S.A."
        style="height:75px; width:auto; max-width:none;">
 
@@ -208,11 +208,11 @@ Dziękujemy wszystkim gościom, partnerom oraz uczestnikom spotkania za obecnoś
 
 <div style="display:flex; justify-content:center; align-items:center; gap:70px; margin:0.8rem 0 1.2rem 0;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/cezamat-2.png"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/cezamat-2.webp"
        alt="CEZAMAT Hub of Power"
        style="height:95px; width:auto; max-width:none;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/esahub.png"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/esahub.webp"
        alt="ESA Hub"
        style="height:65px; width:auto; max-width:none;">
 
@@ -220,7 +220,7 @@ Dziękujemy wszystkim gościom, partnerom oraz uczestnikom spotkania za obecnoś
 
 <div style="display:flex; justify-content:center; align-items:center; margin:0.8rem 0 2rem 0;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/enh2o.png"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/enh2o.webp"
        alt="EnH2O"
        style="height:80px; width:auto; max-width:none;">
 
@@ -230,11 +230,11 @@ Dziękujemy wszystkim gościom, partnerom oraz uczestnikom spotkania za obecnoś
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:55px; margin:1.4rem 0 1.5rem 0;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/mnisw.png"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/mnisw.webp"
        alt="Minister Nauki i Szkolnictwa Wyższego"
        style="height:80px; width:auto; max-width:none;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/ndrs.png"
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/ndrs.webp"
        alt="Nauka dla Rozwoju Społeczeństwa"
        style="height:80px; width:auto; max-width:none;">
 
