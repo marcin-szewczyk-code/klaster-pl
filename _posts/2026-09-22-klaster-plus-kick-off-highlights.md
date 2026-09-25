@@ -180,7 +180,7 @@ Ostatnia część wydarzenia miała charakter techniczny. Uczestnicy mogli zapoz
 *Prezentacja infrastruktury ESA Hub Sp. z o.o., fot. KLASTER+*
 
 ![Demonstracja stanowiska sterownika polowego Elektrometal Energetyka S.A.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/demonstrator-sterownik.webp)
-*Demonstracja stanowiska sterownika polowego Elektrometal Energetyka S.A., fot. KLASTER+*
+*Demonstracja stanowiska sterownika polowego Elektrometal Energetyka S.A. Od lewej: dr inż. Tadeusz Daszczyński, dr inż. Robert Wójtowicz. Fot. KLASTER+.*
 
 ## Podsumowanie
 
