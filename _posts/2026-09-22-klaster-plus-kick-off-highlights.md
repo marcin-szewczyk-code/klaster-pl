@@ -37,7 +37,7 @@ Jako pierwszy wystąpił **prof. dr hab. inż. Andrzej Dzieliński**, Dziekan Wy
 
 Głos zabrali następnie **Łukasz Madej**, Prezes Zarządu ESA Hub Sp. z o.o., **Aleksandra Mościcka-Studzińska**, Zastępca Dyrektora CEZAMAT PW, oraz **Paweł Krogulec**, Dyrektor Operacyjny Elektrometal Energetyka S.A.
 
-W spotkaniu uczestniczyli także inni przedstawiciele Wydziału Elektrycznego PW, w tym **dr inż. Radosław Roszczyk**, Prodziekan ds. Studenckich, oraz **prof. dr hab. inż. Mirosław Parol**. W wydarzeniu wzięli również udział **prof. Paweł Obstawski** z SGGW, **dr inż. Tomasz Kossek** z Instytutu Łączności – Państwowego Instytutu Badawczego, **Barbara Wąsowska** z Ministerstwa Klimatu i Środowiska, **Grzegorz Nowaczewski**, Prezes Zarządu Virtual Power Plant Sp. z o.o., **Piotr Mańkiewicz**, dyrektor ds. technicznych w Format Sp. z o.o. oraz **mec. Paweł Łączkowski**, partner w kancelarii prawnej Wolf Theiss i kierownik zespołu ds. Energetyki i Zasobów Naturalnych.
+W spotkaniu uczestniczyli także inni przedstawiciele Wydziału Elektrycznego PW, w tym **dr inż. Radosław Roszczyk**, Prodziekan ds. Studenckich, oraz **prof. dr hab. inż. Mirosław Parol**. W wydarzeniu wzięli również udział **prof. Paweł Obstawski** z SGGW, **dr inż. Tomasz Kossek** z Instytutu Łączności – Państwowego Instytutu Badawczego, **Barbara Wąsowska** z Ministerstwa Klimatu i Środowiska, **Grzegorz Nowaczewski**, Prezes Zarządu Virtual Power Plant Sp. z o.o., **Piotr Mańkiewicz**, dyrektor ds. technicznych w Format Sp. z o.o. oraz **mec. Paweł Łączkowski**, partner w kancelarii prawnej Wolf Theiss i kierownik zespołu ds. Energetyki.
 
 <!--
 ![Wystąpienie Łukasza Madeja, Prezesa Zarządu ESA Hub Sp. z o.o.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/foto-01.webp)
@@ -60,7 +60,9 @@ W pierwszej części spotkania, przed przedstawieniem założeń projektu KLASTE
 
 Punktem wyjścia były rosnąca skala ograniczeń generacji ze źródeł odnawialnych, społeczno-gospodarczy wymiar ubóstwa energetycznego oraz potrzeba lepszego wykorzystania lokalnie wytwarzanej energii. Wskazano również na lukę technologiczną na styku mikrosieci i sieci OSD, wynikającą z braku aktywnego zarządzania i skoordynowanej wymiany informacji pomiędzy tymi obszarami.
 
-Jednym z kierunków rozwiązania tego problemu jest inteligentne zarządzanie na brzegu sieci, pozwalające wykorzystywać lokalne dane i zasoby mikrosieci z uwzględnieniem aktualnych warunków pracy systemu dystrybucyjnego. Rozwiązanie tych problemów wymaga współpracy nauki, przemysłu i operatorów.
+Jednym z kierunków rozwiązania tego problemu jest inteligentne zarządzanie na brzegu sieci, pozwalające wykorzystywać lokalne dane i zasoby mikrosieci z uwzględnieniem aktualnych warunków pracy systemu dystrybucyjnego.
+
+Rozwiązanie tych problemów wymaga współpracy nauki, przemysłu i operatorów.
 
 ## Projekt, program badań i partnerzy
 
@@ -71,7 +73,7 @@ W dalszej części prezentacji **mgr inż. Michał Połecki** przedstawił progr
 ![Program badań projektu KLASTER+ prezentowany przez mgr. inż. Michała Połeckiego](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/michal-polecki-1.webp)
 *Program badań projektu KLASTER+ prezentowany przez mgr. inż. Michała Połeckiego, fot. Julia Kwiecińska*
 
-Po prezentacji programu badań swoje instytucje i obszary działalności zaprezentowali partnerzy projektu: **ESA Hub Sp. z o.o.**, reprezentowana przez Prezesa Zarządu Łukasza Madeja, **CEZAMAT PW**, reprezentowany przez Zastępcę Dyrektora Aleksandrę Mościcką-Studzińską, oraz **Elektrometal Energetyka S.A.**, reprezentowany przez **Waldemara Chmielaka, kierownika działu R&D**.
+Po prezentacji programu badań swoje instytucje i obszary działalności zaprezentowali partnerzy projektu: **ESA Hub Sp. z o.o.**, reprezentowana przez Prezesa Zarządu Łukasza Madeja, **CEZAMAT PW**, reprezentowany przez Zastępcę Dyrektora Aleksandrę Mościcką-Studzińską, oraz **Elektrometal Energetyka S.A.**, reprezentowany przez **dr. inż. Waldemara Chmielaka, kierownika działu R&D**.
 
 ![Łukasz Madej, Prezes Zarządu ESA Hub Sp. z o.o.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/madej-prezentacja.webp)
 *Łukasz Madej, Prezes Zarządu, podczas prezentacji ESA Hub Sp. z o.o., fot. KLASTER+*
@@ -84,7 +86,7 @@ Po prezentacji programu badań swoje instytucje i obszary działalności zapreze
 
 ## Rozmowy i współpraca
 
-Po pierwszej części programu odbyła się przerwa kawowa, która była okazją do bezpośrednich rozmów między członkami zespołu, partnerami projektu i zaproszonymi gośćmi. Bezpośrednie rozmowy i wymiana doświadczeń są ważnym elementem realizacji celów projektu – **tworzenia środowiska współpracy nauki i przemysłu**. Pozwala to łączyć kompetencje badawcze zespołu z potencjałem wdrożeniowym, technologicznym i operacyjnym partnerów przemysłowych. Dzięki temu wymagania wdrożeniowe mogą być uwzględniane już podczas definiowania problemów badawczych i opracowywania rozwiązań.
+Po pierwszej części programu odbyła się przerwa kawowa, która była okazją do bezpośrednich rozmów między członkami zespołu, partnerami projektu i zaproszonymi gośćmi. Bezpośrednie rozmowy i wymiana doświadczeń są ważnym elementem realizacji jednego z celów projektu – **tworzenia środowiska współpracy nauki i przemysłu**. Pozwala to łączyć kompetencje badawcze zespołu z potencjałem wdrożeniowym, technologicznym i operacyjnym partnerów przemysłowych. Dzięki temu wymagania wdrożeniowe mogą być uwzględniane już podczas definiowania problemów badawczych i opracowywania rozwiązań.
 
 KLASTER+ ma być nie tylko projektem technologicznym, ale również formą trwałej współpracy pomiędzy zespołem badawczym a partnerami przemysłowymi. Ambicją zespołu jest, aby współpraca i doświadczenia zdobyte podczas realizacji projektu stały się podstawą kolejnych wspólnych przedsięwzięć badawczo-rozwojowych oraz dalszych wdrożeń.
 
@@ -147,13 +149,13 @@ Po przerwie zaprezentowano zespół projektu KLASTER+ oraz zakres odpowiedzialno
 W trakcie spotkania uczestnicy mieli kilka okazji do dyskusji i bezpośredniej wymiany doświadczeń, zarówno przed rozpoczęciem części oficjalnej, jak i po prezentacji zespołu KLASTER+. Rozmowy dotyczyły kierunków dalszych prac oraz najważniejszych wyzwań technicznych projektu.
 
 ![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-1.webp)
-*Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; dr inż. Tadeusz Daszczyński z Wydziału Elektrycznego Politechniki Warszawskiej, kierownik projektu KLASTER+, fot. KLASTER+*
+*Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; dr inż. Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; dr inż. Tadeusz Daszczyński z Wydziału Elektrycznego Politechniki Warszawskiej, kierownik projektu KLASTER+, fot. KLASTER+*
 
 ![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-2.webp)
-*Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW; dr inż. Tadeusz Daszczyński i mgr inż. Michał Połecki z Wydziału Elektrycznego Politechniki Warszawskiej, fot. KLASTER+*
+*Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; dr inż. Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW; dr inż. Tadeusz Daszczyński i mgr inż. Michał Połecki z Wydziału Elektrycznego Politechniki Warszawskiej, fot. KLASTER+*
 
 ![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-3.webp)
-*Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW; dr inż. Tadeusz Daszczyński i mgr inż. Michał Połecki z Wydziału Elektrycznego Politechniki Warszawskiej, fot. KLASTER+*
+*Dyskusja z udziałem uczestników spotkania: prof. dr hab. inż. Andrzej Dzieliński, Dziekan Wydziału Elektrycznego PW; Paweł Krogulec, Dyrektor Operacyjny Elektrometal Energetyka S.A.; dr inż. Waldemar Chmielak, kierownik działu R&D Elektrometal Energetyka S.A.; Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW; dr inż. Tadeusz Daszczyński i mgr inż. Michał Połecki z Wydziału Elektrycznego Politechniki Warszawskiej, fot. KLASTER+*
 
 ![Dyskusja z udziałem uczestników spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/dyskusja-4.webp)
 *Dyskusja z udziałem uczestników spotkania, fot. Julia Kwiecińska*
