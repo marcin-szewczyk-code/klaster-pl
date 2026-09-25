@@ -77,7 +77,7 @@ Po prezentacji programu badań swoje instytucje i obszary działalności zapreze
 *Łukasz Madej, Prezes Zarządu, podczas prezentacji ESA Hub Sp. z o.o., fot. KLASTER+*
 
 ![Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/aleksandra-prezentacja.webp)
-*Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW, podczas prezentacji CEZAMAT PW., fot. KLASTER+*
+*Aleksandra Mościcka-Studzińska, Zastępca Dyrektora CEZAMAT PW, podczas prezentacji CEZAMAT PW, fot. KLASTER+*
 
 ![Waldemar Chmielak, Kierownik działu R&D w Elektrometal Energetyka S.A.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/chmielak-prezentacja.webp)
 *Waldemar Chmielak, kierownik działu R&D, podczas prezentacji Elektrometal Energetyka S.A., fot. KLASTER+*
@@ -119,7 +119,7 @@ Po przerwie zaprezentowano zespół projektu KLASTER+ oraz zakres odpowiedzialno
 - **dr inż. Szymon Stoczko** – odpowiedzialny za opracowanie architektury rozwiązania, implementację funkcji sterowania i komunikacji w sterowniku polowym oraz jego uruchomienie i weryfikację, w tym testy fizycznego sterownika we współpracy z modelem mikrosieci w środowisku Hardware-in-the-Loop.
 
 ![Tadeusz Daszczyński](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/team-tadeusz-daszczynski.webp)
-**Tadeusz Daszczyński podczas prezentacji zespołu KLASTER+, fot. Julia Kwiecińska*
+*Tadeusz Daszczyński podczas prezentacji zespołu KLASTER+, fot. Julia Kwiecińska*
 
 <!--
 ![Marcin Szewczyk](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/foto-01.webp)
