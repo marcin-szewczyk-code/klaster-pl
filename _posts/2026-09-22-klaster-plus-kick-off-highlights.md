@@ -37,7 +37,7 @@ Jako pierwszy wystąpił **prof. dr hab. inż. Andrzej Dzieliński**, Dziekan Wy
 
 Głos zabrali następnie **Łukasz Madej**, Prezes Zarządu ESA Hub Sp. z o.o., **Aleksandra Mościcka-Studzińska**, Zastępca Dyrektora CEZAMAT PW, oraz **Paweł Krogulec**, Dyrektor Operacyjny Elektrometal Energetyka S.A.
 
-W spotkaniu uczestniczyli także inni przedstawiciele Wydziału Elektrycznego PW, w tym **dr inż. Radosław Roszczyk**, Prodziekan ds. Studenckich, oraz **prof. dr hab. inż. Mirosław Parol**. W wydarzeniu wzięli również udział **prof. Paweł Obstawski** z SGGW, **Tomasz Kossek** z Instytutu Łączności – Państwowego Instytutu Badawczego, **Barbara Wąsowska** z Ministerstwa Klimatu i Środowiska, **Grzegorz Nowaczewski**, Prezes Zarządu Virtual Power Plant Sp. z o.o., **Piotr Mańkiewicz**, dyrektor ds. technicznych w Format Sp. z o.o. oraz **Paweł Łączkowski**, partner w kancelarii prawnej Wolf Theiss i kierownik zespołu ds. Energetyki i Zasobów Naturalnych.
+W spotkaniu uczestniczyli także inni przedstawiciele Wydziału Elektrycznego PW, w tym **dr inż. Radosław Roszczyk**, Prodziekan ds. Studenckich, oraz **prof. dr hab. inż. Mirosław Parol**. W wydarzeniu wzięli również udział **prof. Paweł Obstawski** z SGGW, **dr inż. Tomasz Kossek** z Instytutu Łączności – Państwowego Instytutu Badawczego, **Barbara Wąsowska** z Ministerstwa Klimatu i Środowiska, **Grzegorz Nowaczewski**, Prezes Zarządu Virtual Power Plant Sp. z o.o., **Piotr Mańkiewicz**, dyrektor ds. technicznych w Format Sp. z o.o. oraz **Paweł Łączkowski**, partner w kancelarii prawnej Wolf Theiss i kierownik zespołu ds. Energetyki i Zasobów Naturalnych.
 
 <!--
 ![Wystąpienie Łukasza Madeja, Prezesa Zarządu ESA Hub Sp. z o.o.](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/foto-01.webp)
