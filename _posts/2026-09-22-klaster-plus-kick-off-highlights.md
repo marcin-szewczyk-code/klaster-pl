@@ -17,7 +17,7 @@ Ważnym elementem spotkania było budowanie środowiska **współpracy nauki i p
 >
 > 👉 Wkrótce: nagranie wykładu na YouTube i fotorelacja ze spotkania.
 >
-> 🔔 Newsletter:    **zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+> 🔔 Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
 {: .prompt-tip }
 
 ## Otwarcie spotkania
