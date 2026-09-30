@@ -22,4 +22,4 @@ Artykuł zwraca również uwagę na szerszy wymiar projektu: rozwój inteligentn
 *Artykuł na stronie Wydziału Elektrycznego Politechniki Warszawskiej.*
 
 ![Informacja o projekcie KLASTER+ na LinkedIn Wydziału Elektrycznego PW](/assets/posts/2026-09-29-klaster-plus-media-coverage-02/media-coverage-ee-ln.webp){: width="70%" style="display:block; margin-left:auto; margin-right:auto;" }
-*Informacja o projekcie KLASTER+ na profilu LinkedIn Wydziału Elektrycznego Politechniki Warszawskiej.*
+*KLASTER+ na profilu LinkedIn Wydziału Elektrycznego PW.*
