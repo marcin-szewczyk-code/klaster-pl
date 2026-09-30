@@ -13,6 +13,10 @@ Ważnym elementem spotkania było budowanie środowiska **współpracy nauki i p
 
 > **Materiały ze spotkania i aktualności**
 >
+> 👉 Agenda: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/agenda.pdf).
+>
+> 👉 Zaproszenie: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/ulotka.pdf).
+>
 > 👉 Wkrótce: prezentacja z wykładu otwierającego w formacie PDF.
 >
 > 👉 Wkrótce: nagranie wykładu na YouTube i fotorelacja ze spotkania.
