@@ -14,6 +14,6 @@ Subskrypcja newslettera jest aktywna.
 Od tej chwili:
 - będziesz otrzymywać powiadomienia o aktualizacjach na stronie  
 - nie będą wysyłane treści marketingowe ani wiadomości masowe  
-- częstotliwość wysyłki będzie mniej więcej odpowiadać publikacji nowych materiałów
+- częstotliwość wysyłki będzie odpowiadać publikacji nowych materiałów
 
 W każdej chwili możesz zrezygnować z subskrypcji, korzystając z linku w stopce wiadomości.
