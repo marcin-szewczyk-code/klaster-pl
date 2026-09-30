@@ -1,18 +1,20 @@
 ---
-title: Newsletter – Oczekiwanie na potwierdzenie
+title: Newsletter – Zgłoszenie przyjęte
 permalink: /newsletter-confirmation/
 layout: page
 sitemap: false
 robots: noindex, nofollow
 ---
 
-> Status: oczekiwanie na potwierdzenie adresu e-mail
+> Status: zgłoszenie przyjęte
 {: .prompt-info }
 
-Na podany adres e-mail wysłano wiadomość z linkiem aktywacyjnym.  
+Twój adres e-mail został przekazany do systemu newslettera.
 
-Aby aktywować subskrypcję, otwórz wiadomość i kliknij link potwierdzający.
+Jeśli wymagane jest potwierdzenie subskrypcji, otrzymasz wiadomość z linkiem aktywacyjnym.
 
-Jeżeli e-mail nie dotrze w ciągu kilku minut, sprawdź folder **SPAM** lub zakładkę **Oferty**.
+Jeśli ten adres jest już aktywny lub był aktywny wcześniej, ponowne potwierdzenie może nie być wymagane.
+
+Jeżeli oczekujesz wiadomości potwierdzającej i nie dotrze ona w ciągu kilku minut, sprawdź folder **SPAM**.
 
 W każdej chwili możesz zrezygnować z subskrypcji, korzystając z linku w stopce wiadomości.
