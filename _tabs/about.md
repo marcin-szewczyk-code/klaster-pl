@@ -81,14 +81,20 @@ Projekt finansowany ze środków budżetu państwa, przyznany przez **Ministra N
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:55px; margin:1.4rem 0 1.5rem 0;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/mnisw.png"
+  <img src="/assets/pages/about/mnisw.png"
        alt="Minister Nauki i Szkolnictwa Wyższego"
-       style="height:80px; width:auto; max-width:none;">
+       style="height:105px; width:auto; max-width:none;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/ndrs.png"
+  <img src="/assets/pages/about/ndrs.png"
        alt="Nauka dla Rozwoju Społeczeństwa"
-       style="height:80px; width:auto; max-width:none;">
+       style="height:105px; width:auto; max-width:none;">
 
+</div>
+
+<div style="display:flex; justify-content:center; align-items:center;">
+    <img src="/assets/pages/about/flaga-godlo.png"
+         alt="Godło Polski"
+         style="height:110px; width:auto; max-width:none;">
 </div>
 
 > **Więcej informacji**
