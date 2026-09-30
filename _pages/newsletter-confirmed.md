@@ -6,7 +6,6 @@ sitemap: false
 robots: noindex, nofollow
 ---
 
-
 > Status: subskrypcja aktywna
 {: .prompt-tip }
 
