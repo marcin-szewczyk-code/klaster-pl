@@ -22,11 +22,14 @@ Dorobek Zespołu obejmował liczne publikacje naukowe w czołowych czasopismach 
 
 W ramach prac nad nową koncepcją KLASTER+ Zespół Aparatów Elektrycznych został poszerzony o kompetencje związane z sieciami elektroenergetycznymi, mikrosieciami i OZE, które wnieśli **mgr inż. Michał Połecki** i **dr inż. Łukasz Rokicki**, oraz o kompetencje w zakresie infrastruktury teleinformatycznej, reprezentowane przez **dr. inż. Roberta Wójtowicza**.
 
+![Zespół KLASTER+](/assets/posts/2025-06-03-origins-of-klaster-plus/klaster-plus-team.webp){: width="90%" style="display:block; margin-left:auto; margin-right:auto;" }
+*Zespół KLASTER+.*
+
 ## Koncepcja projektu KLASTER+
 
-W kolejnych miesiącach początkowa idea projektu została przełożona na konkretną koncepcję badawczo-wdrożeniową. Koncepcja ta była wypracowywana wspólnie podczas kolejnych spotkań z przyszłymi partnerami przemysłowymi oraz firmami z branży elektrowni wirtualnych.
+W kolejnych miesiącach początkowa idea projektu została przełożona na konkretną koncepcję badawczo-wdrożeniową. Koncepcja ta była wypracowywana wspólnie podczas kolejnych spotkań z przyszłymi partnerami przemysłowymi oraz firmami z branży elektroenergetycznej.
 
-Głównym celem technicznym było opracowanie i wdrożenie nowej funkcjonalności sterownika polowego zlokalizowanego w punkcie przyłączenia mikrosieci OZE do sieci dystrybucyjnej OSD.
+Głównym celem technicznym stało się opracowanie i wdrożenie nowej funkcjonalności sterownika polowego zlokalizowanego w punkcie przyłączenia mikrosieci OZE do sieci dystrybucyjnej OSD.
 
 Równolegle rozwijano koncepcję współpracy z partnerami, określano zadania i kamienie milowe oraz planowano środowisko demonstracyjne.
 
@@ -48,11 +51,15 @@ Do preselekcji na Politechnice Warszawskiej zgłoszono siedem projektów. Projek
 
 Po zakończeniu preselekcji rozpoczął się etap prac nad pełnym wnioskiem projektowym. W kolejnych miesiącach dopracowywano strukturę projektu, zakres zadań, odpowiedzialności, harmonogram oraz współpracę z partnerami.
 
+Warunkiem udziału w programie było zaangażowanie co najmniej jednego partnera z otoczenia społeczno-gospodarczego. Zespół KLASTER+ pozyskał **cztery listy intencyjne** od partnerów przemysłowych – więcej, niż przewidywał standardowy formularz OSF (system obsługi wniosków).
+
 2 grudnia 2025 r. wniosek został wysłany do ministerstwa.
 
 ## Wyniki konkursu i finansowanie projektu
 
 6 maja 2026 r. ogłoszono wyniki konkursu. Projekt **KLASTER+** został zakwalifikowany do finansowania ze środków budżetu państwa, przyznanych przez Ministra Nauki i Szkolnictwa Wyższego w ramach programu „Nauka dla Rozwoju Społeczeństwa”.
+
+Wniosek uzyskał **34 punkty na 40 możliwych**. W **7 z 12 kryteriów oceny** przyznano maksymalną liczbę punktów, m.in. za zasadność zaplanowanych zadań, konkretne i mierzalne rezultaty projektu, możliwości organizacyjne wnioskodawcy i partnerów oraz sposób upowszechniania wyników. Maksymalną ocenę **6/6 pkt** projekt uzyskał także w całym obszarze dotyczącym **potencjału organizacyjnego i kompetencji Zespołu**.
 
 Nr projektu: **NdRS/SP/0189/2025/01**  
 Całkowita wartość projektu: **1 999 757,15 zł**
@@ -61,4 +68,6 @@ Całkowita wartość projektu: **1 999 757,15 zł**
 
 Po uzyskaniu finansowania rozpoczęła się realizacja projektu **KLASTER+**.
 
-Najważniejszym efektem wspólnych prac nie jest jednak sam projekt, ale zbudowanie Zespołu KLASTER+, zdolnego do podejmowania kolejnych wyzwań badawczo-rozwojowych i działającego w silnym otoczeniu partnerów przemysłowych.
+Efektem wspólnych prac jest nie tylko sam projekt, ale również **zbudowanie Zespołu KLASTER+**. Zespół KLASTER+ łączy kompetencje i doświadczenie pozwalające realizować ambitne cele projektu.
+
+Jesteśmy otwarci na kolejne wyzwania, a osiąganie kolejnych celów KLASTER+ będzie dla nas nie tylko miarą skuteczności, lecz także kolejnymi etapami dojrzewania Zespołu – rozwoju jego kompetencji, współpracy i zdolności do realizacji coraz bardziej ambitnych przedsięwzięć badawczo-rozwojowych.
