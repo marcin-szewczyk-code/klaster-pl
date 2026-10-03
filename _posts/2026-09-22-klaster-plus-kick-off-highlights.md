@@ -13,15 +13,15 @@ Ważnym elementem spotkania było budowanie środowiska **współpracy nauki i p
 
 > **Materiały ze spotkania i aktualności**
 >
-> 👉 Agenda: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/agenda.pdf) i 👉 Zaproszenie: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/ulotka.pdf).
+> 👉 <i class="fa-solid fa-file-pdf"></i> Agenda: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/agenda.pdf) oraz <i class="fa-solid fa-file-pdf"></i> zaproszenie: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/ulotka.pdf).
 >
-> 👉 Fotorelacja ze spotkania: [**zobacz zdjęcia**](/posts/klaster-plus-kick-off-fotorelacja/).
+> 👉 <i class="fa-solid fa-images"></i> Fotorelacja ze spotkania: [**zobacz zdjęcia**](/posts/klaster-plus-kick-off-fotorelacja/).
 >
-> 👉 Nagranie wykładu na YouTube: [**@KlasterPlus**](https://www.youtube.com/@KlasterPlus).
+> 👉 <i class="fa-brands fa-youtube" style="color: #ff0000;"></i> Nagranie wykładu na YouTube: [**@KlasterPlus**](https://www.youtube.com/@KlasterPlus).
 >
 > 👉 Wkrótce: prezentacja i transkrypt z wykładu otwierającego w formacie PDF.
 >
-> 🔔 Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+> 👉 <i class="fa-solid fa-envelope"></i> Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
 {: .prompt-tip }
 
 ## Otwarcie spotkania
