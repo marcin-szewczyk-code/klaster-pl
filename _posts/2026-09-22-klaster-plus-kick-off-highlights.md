@@ -17,11 +17,9 @@ Ważnym elementem spotkania było budowanie środowiska **współpracy nauki i p
 >
 > 👉 Fotorelacja ze spotkania: [**zobacz zdjęcia**](/posts/klaster-plus-kick-off-fotorelacja/).
 >
-> 👉 Wkrótce:
+> 👉 Nagranie wykładu na YouTube: [**@KlasterPlus**](https://www.youtube.com/@KlasterPlus)
 >
-> > 👉 Prezentacja i transkrypt z wykładu otwierającego w formacie PDF.
->
-> > 👉 Nagranie wykładu na YouTube.
+> 👉 Wkrótce: prezentacja i transkrypt z wykładu otwierającego w formacie PDF.
 >
 > 🔔 Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
 {: .prompt-tip }
