@@ -18,7 +18,9 @@ Punktem wyjścia do utworzenia **Zespołu KLASTER+** był działający od wielu 
 
 Zespół Aparatów Elektrycznych tworzyli **dr inż. Tadeusz Daszczyński**, **dr hab. inż. Marcin Szewczyk**, **dr inż. Szymon Stoczko** oraz **mgr inż. Kamil Przygoda**, doktorant Szkoły Doktorskiej PW.
 
-Dorobek Zespołu obejmował liczne publikacje naukowe w czołowych czasopismach międzynarodowych oraz patenty, w tym patenty międzynarodowe opracowane we współpracy z partnerami przemysłowymi. Równolegle rozwijano zaplecze badawcze, wyposażając Zespół w specjalistyczną aparaturę oraz infrastrukturę obliczeniową o wartości **kilkuset tysięcy złotych**.
+Dorobek **Zespołu Aparatów** obejmował liczne publikacje naukowe w czołowych czasopismach międzynarodowych oraz patenty, w tym patenty międzynarodowe opracowane we współpracy z partnerami przemysłowymi. Równolegle rozwijano zaplecze badawcze, wyposażając Zespół w specjalistyczną aparaturę oraz infrastrukturę obliczeniową o wartości **kilkuset tysięcy złotych**.
+
+We wcześniejszych latach, w zakresie naszej bezpośredniej pamięci, **Zespół Aparatów Elektrycznych** tworzyli m.in. **dr inż. Waldemar Chmielak**, **dr hab. inż. Zbigniew Pochanke**, **dr hab. inż. Włodzimierz Kałat**, **prof. dr hab. inż. Stanisław Kulas**, **prof. dr hab. inż. Jan Maksymiuk** i **prof. dr hab. inż. Zbigniew Ciok**, w przeszłości prorektor Politechniki Warszawskiej ds. nauki.
 
 W ramach prac nad nową koncepcją KLASTER+ Zespół Aparatów Elektrycznych został poszerzony o kompetencje związane z sieciami elektroenergetycznymi, mikrosieciami i OZE, które wnieśli **mgr inż. Michał Połecki** i **dr inż. Łukasz Rokicki**, oraz o kompetencje w zakresie infrastruktury teleinformatycznej, reprezentowane przez **dr. inż. Roberta Wójtowicza**.
 
