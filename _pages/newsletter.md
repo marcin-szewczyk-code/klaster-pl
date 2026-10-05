@@ -5,7 +5,9 @@ permalink: /newsletter/
 layout: page
 ---
 
-Zapisz się, aby otrzymywać informacje o nowych publikacjach i aktualnościach projektu KLASTER+:
+Zapisz się, aby otrzymywać informacje o nowych publikacjach i aktualnościach projektu KLASTER+.
+
+Wysyłamy tylko informacje o nowych wpisach:
 
 <!-- tutaj wklej kod embed z MailerLite -->
 <div class="ml-embedded" data-form="cY1WRm"></div>
