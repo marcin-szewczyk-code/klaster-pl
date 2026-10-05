@@ -1,6 +1,6 @@
 ---
-title: "Projekt KLASTER+ oficjalnie rozpoczęty"
-description: "Relacja ze spotkania inaugurującego projekt KLASTER+ z udziałem zespołu, partnerów przemysłowych i zaproszonych gości."
+title: "Kick-off projektu KLASTER+ – oficjalne rozpoczęcie projektu"
+description: "Relacja ze spotkania inaugurującego projekt KLASTER+ w CEZAMAT PW z udziałem Zespołu, partnerów przemysłowych i zaproszonych gości."
 date: 2026-09-23 12:00:00 +0200
 pin: true
 ---

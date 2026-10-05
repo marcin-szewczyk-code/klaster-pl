@@ -1,6 +1,6 @@
 ---
 title: "Fotorelacja z inauguracji projektu KLASTER+"
-description: "Inauguracja projektu KLASTER+ w CEZAMAT Politechniki Warszawskiej."
+description: "Galeria zdjęć z inauguracji projektu KLASTER+ w CEZAMAT Politechniki Warszawskiej."
 date: 2026-10-03 12:00:00 +0200
 pin: false
 ---

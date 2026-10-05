@@ -1,6 +1,6 @@
 ---
-title: "Nagrania z inauguracji projektu KLASTER+"
-description: "Historia Zespołu i miniwykład przedstawione podczas inauguracji projektu w CEZAMAT PW 22 września 2026."
+title: "Nagrania YouTube z inauguracji projektu KLASTER+"
+description: "Nagrania prezentacji historii Zespołu oraz miniwykładu z inauguracji projektu KLASTER+ w CEZAMAT PW."
 date: 2026-10-05 08:30:00 +0200
 pin: false
 ---
