@@ -22,7 +22,7 @@ Do każdego nagrania udostępniamy transkrypcję w formacie PDF oraz bezpośredn
 
 Historia powstania Zespołu i projektu **KLASTER+** – od pierwszego pomysłu i budowy Zespołu do uruchomienia projektu.
 
-👉 Transkrypcja nagrania: [**pobierz PDF**](/assets/posts/2026-10-05-klaster-plus-kick-off-videos/transcript-part-2.pdf)
+👉 Transkrypcja nagrania: [**pobierz PDF**](/assets/posts/2026-10-05-klaster-plus-kick-off-videos/transcript-part-1.pdf)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.5rem 0;">
   <iframe
