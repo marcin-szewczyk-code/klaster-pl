@@ -11,7 +11,7 @@ Do każdego nagrania udostępniamy transkrypcję w formacie PDF oraz bezpośredn
 
 > **Powiązane materiały**
 >
-> 👉 Pełna relacja z inauguracji: [**zobacz wpis**](/posts/klaster-plus-kick-off-highlights/).
+> 👉 Pełna relacja z inauguracji projektu w CEZAMAT PW: [**zobacz wpis**](/posts/klaster-plus-kick-off-highlights/).
 >
 > 👉 Fotorelacja: [**zobacz zdjęcia**](/posts/klaster-plus-kick-off-photos/).
 >
