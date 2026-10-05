@@ -10,7 +10,7 @@ Pełna nazwa projektu brzmi:
 **„Wspólnoty energetyczne przyszłości – innowacyjny system integracji lokalnych odnawialnych źródeł energii (OZE) dla redukcji ubóstwa energetycznego i aktywizacji społeczności”.**
 
 > **Jak powstał projekt KLASTER+**
-> Zobacz wpis: [**Początki Zespołu i projektu KLASTER+**](/posts/origins-of-klaster-plus/).
+> 👉 Zobacz: [**Początki Zespołu i projektu KLASTER+**](/posts/origins-of-klaster-plus/).
 {: .prompt-tip }
 
 Projekt odpowiada na jedno z najważniejszych wyzwań współczesnej energetyki: bezpieczną i efektywną integrację lokalnych odnawialnych źródeł energii z sieciami dystrybucyjnymi.

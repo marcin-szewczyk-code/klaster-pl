@@ -8,9 +8,12 @@ Zapraszamy przedstawicieli mediów do kontaktu w sprawie projektu KLASTER+, prow
 
 > **Współpraca z mediami**
 >
-> 📌 Osoba do kontaktu: **dr inż. Tadeusz Daszczyński**, kierownik projektu KLASTER+.
+> 👉 📌 Osoba do kontaktu: **dr inż. Tadeusz Daszczyński**, kierownik projektu KLASTER+.
 >
-> 🔗 [LinkedIn – Tadeusz Daszczyński](https://pl.linkedin.com/in/tadeusz-daszczynski)
+> 👉 🔗 [LinkedIn – Tadeusz Daszczyński](https://pl.linkedin.com/in/tadeusz-daszczynski)
 >
-> 🌐 Informacje o projekcie i aktualności: [**klaster-plus.pw.edu.pl**](https://klaster-plus.edu.pl/)
+> 👉 🌐 Informacje o projekcie i aktualności: [**klaster-plus.pw.edu.pl**](https://klaster-plus.edu.pl/)
 {: .prompt-tip }
+
+> <i class="fa-solid fa-envelope"></i> Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+{: .prompt-info }

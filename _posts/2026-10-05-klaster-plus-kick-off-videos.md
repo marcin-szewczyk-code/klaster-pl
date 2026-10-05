@@ -1,28 +1,31 @@
 ---
 title: "Nagrania z inauguracji projektu KLASTER+"
-description: "Historia Zespołu i projektu oraz prezentacja projektu."
+description: "Historia Zespołu i miniwykład przedstawione podczas inauguracji projektu w CEZAMAT PW 22 września 2026."
 date: 2026-10-05 08:30:00 +0200
 pin: false
 ---
 
-Publikujemy dwa nagrania z inauguracji projektu **KLASTER+**. Pierwszy materiał przedstawia historię powstania Zespołu i projektu. Drugi materiał przedstawia założenia projektu, jego cele, kontekst i planowane działania.
+Publikujemy tu nagrania dwóch wystąpień **dr. inż. Tadeusza Daszczyńskiego** podczas inauguracji projektu KLASTER+, która odbyła się 22 września 2026 r. w CEZAMAT Politechniki Warszawskiej. Pierwsze nagranie poświęcone jest historii powstania Zespołu i projektu, drugie – założeniom projektu, jego celom, współpracy z partnerami przemysłowymi oraz planowanym działaniom.
 
-Do każdego nagrania udostępniamy transkrypcję w formacie PDF oraz bezpośrednio w treści strony.
+Do każdego nagrania udostępniamy transkrypcję w formacie PDF, a treść transkrypcji zamieszczamy również poniżej.
 
 > **Powiązane materiały**
 >
-> 👉 Pełna relacja z inauguracji projektu w CEZAMAT PW: [**zobacz wpis**](/posts/klaster-plus-kick-off-highlights/).
+> 👉 <i class="fa-solid fa-newspaper"></i> Pełna relacja z inauguracji projektu w CEZAMAT PW: [**zobacz wpis**](/posts/klaster-plus-kick-off-highlights/).
 >
-> 👉 Fotorelacja: [**zobacz zdjęcia**](/posts/klaster-plus-kick-off-photos/).
+> 👉 <i class="fa-solid fa-images"></i> Fotorelacja ze spotkania: [**zobacz zdjęcia**](/posts/klaster-plus-kick-off-photos/).
 >
-> 👉 Kanał YouTube projektu: [**@KlasterPlus**](https://www.youtube.com/@KlasterPlus).
+> 👉 <i class="fa-brands fa-youtube" style="color: #ff0000;"></i> Kanał YouTube projektu: [**@KlasterPlus**](https://www.youtube.com/@KlasterPlus).
 {: .prompt-tip }
 
-## Historia Zespołu i projektu KLASTER+
+> <i class="fa-solid fa-envelope"></i> Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+{: .prompt-info }
 
-Historia powstania Zespołu i projektu **KLASTER+** – od pierwszego pomysłu i budowy Zespołu do uruchomienia projektu.
+## Nagranie 1 – Historia Zespołu i projektu KLASTER+
 
-👉 Transkrypcja nagrania: [**pobierz PDF**](/assets/posts/2026-10-05-klaster-plus-kick-off-videos/transcript-part-1.pdf)
+Od pierwszego pomysłu, przez budowę Zespołu, do uruchomienia projektu **KLASTER+**.
+
+👉 Transkrypcja nagrania: [**pobierz PDF**](/assets/posts/2026-10-05-klaster-plus-kick-off-videos/transcript-recording-1.pdf)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.5rem 0;">
   <iframe
@@ -34,11 +37,11 @@ Historia powstania Zespołu i projektu **KLASTER+** – od pierwszego pomysłu i
   </iframe>
 </div>
 
-## Prezentacja projektu KLASTER+
+## Nagranie 2 – Prezentacja projektu KLASTER+
 
-Prezentacja projektu **KLASTER+** przedstawiona podczas spotkania inauguracyjnego 22 września 2026 r. w CEZAMAT Politechniki Warszawskiej.
+Założenia projektu, jego cele, współpraca z partnerami przemysłowymi oraz planowane działania.
 
-👉 Transkrypcja nagrania: [**pobierz PDF**](/assets/posts/2026-10-05-klaster-plus-kick-off-videos/transcript-part-2.pdf)
+👉 Transkrypcja nagrania: [**pobierz PDF**](/assets/posts/2026-10-05-klaster-plus-kick-off-videos/transcript-recording-2.pdf)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.5rem 0;">
   <iframe
@@ -50,19 +53,20 @@ Prezentacja projektu **KLASTER+** przedstawiona podczas spotkania inauguracyjneg
   </iframe>
 </div>
 
-## Transkrypcje
+## Transkrypcje nagrań
 
-Pełne transkrypcje obu nagrań znajdują się poniżej.
+Poniżej znajdują się pełne transkrypcje obu nagrań.
 
-### Jak powstał KLASTER+
+### Nagranie 1 – Jak powstał KLASTER+
 
 <details markdown="1">
-<summary><strong>Pokaż transkrypcję części 1</strong></summary>
+<summary><strong>Pokaż transkrypcję</strong></summary>
 
 <div style="margin-top: 0.5rem;"></div>
 
+Wystąpienie:<br>
 **dr inż. Tadeusz Daszczyński**  
-**Kierownik projektu KLASTER+**  
+**Kierownik projektu KLASTER+**<br>
 **Politechnika Warszawska**
 
 Dzień dobry Państwu, nazywam się Tadeusz Daszczyński i będę miał przyjemność poprowadzić dzisiejsze spotkanie, kick-off naszego projektu. Ostatnio oglądałem film *Apollo 13*, bardzo znany film, gdzie jest bardzo słynna scena z Tomem Hanksem, gdzie astronauci wpadli w bardzo poważne tarapaty, i padło to bardzo słynne zdanie: „Houston, mamy problem. Houston, we have a problem.” Od tego momentu w całym tym filmie zaczyna się najciekawsza część całej historii. Bo problem był ogromny, było bardzo mało czasu, zasoby były ograniczone, a mimo to cały zespół, zespół ludzi, specjalistów, ekspertów zebranych na Ziemi, ale i tam w kosmosie, musiał znaleźć rozwiązanie wspólnie.
@@ -81,15 +85,16 @@ Mam nadzieję oczywiście, że po skończeniu tego projektu zamiast „Houston, 
 
 </details>
 
-### Prezentacja projektu KLASTER+
+### Nagranie 2 – Prezentacja projektu KLASTER+
 
 <details markdown="1">
-<summary><strong>Pokaż transkrypcję części 2</strong></summary>
+<summary><strong>Pokaż transkrypcję</strong></summary>
 
 <div style="margin-top: 0.5rem;"></div>
 
+Wystąpienie:<br>
 **dr inż. Tadeusz Daszczyński**  
-**Kierownik projektu KLASTER+**  
+**Kierownik projektu KLASTER+**<br>
 **Politechnika Warszawska**
 
 Dzisiejsza prezentacja podzielona jest na dwie główne części. W pierwszej części opowiem o samym projekcie, wprowadzę do tego projektu, pokażę, dlaczego my się tym zajęliśmy, a w drugiej części będą już prezentacje zespołu, najbliższe działania i oczywiście część techniczna oraz czas przeznaczony naturalnie na dyskusję.

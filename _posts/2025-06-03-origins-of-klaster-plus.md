@@ -10,6 +10,9 @@ Pierwszy impuls do utworzenia zespołu i przygotowania wniosku o finansowanie pr
 > Panowie,
 > z racji tego, że mam jakieś doświadczenia w prowadzeniu i pozyskiwaniu grantów z MNiSW, podsyłam ciekawy konkurs. Może coś wspólnie wymyślimy?
 
+> **Jak powstał projekt KLASTER+** 👉 [**Zobacz nagranie**](/posts/klaster-plus-kick-off-videos/).
+{: .prompt-tip }
+
 Od tego rozpoczęło się wspólne wypracowywanie koncepcji projektu, który został następnie zgłoszony i uzyskał finansowanie w programie Ministerstwa Nauki i Szkolnictwa Wyższego „Nauka dla Rozwoju Społeczeństwa”.
 
 ## Zespół Aparatów Elektrycznych i powstanie Zespołu KLASTER+

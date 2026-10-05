@@ -7,22 +7,25 @@ pin: true
 
 22 września 2026 r. w **Centrum Zaawansowanych Materiałów i Technologii CEZAMAT Politechniki Warszawskiej (CEZAMAT PW)** odbyło się spotkanie kick-off inaugurujące realizację projektu **KLASTER+**. W wydarzeniu uczestniczyli członkowie zespołu projektowego, partnerzy przemysłowi oraz przedstawiciele instytucji naukowych, publicznych i otoczenia gospodarczego.
 
-Spotkanie było oficjalnym rozpoczęciem wspólnej pracy nad rozwiązaniami dla przyszłych wspólnot energetycznych oraz okazją do bezpośrednich rozmów, wymiany doświadczeń i omówienia założeń projektu.
-
-Ważnym elementem spotkania było budowanie środowiska **współpracy nauki i przemysłu** w obszarze energetyki rozproszonej, mikrosieci oraz aparatury rozdzielczej i sterowniczej. Taka współpraca ma wspierać zarówno realizację projektu, jak i kolejne wspólne przedsięwzięcia badawczo-rozwojowe oraz wdrożeniowe.
-
-> **Materiały ze spotkania i aktualności**
+> **Materiały ze spotkania**
 >
-> 👉 <i class="fa-solid fa-file-pdf"></i> Agenda: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/agenda.pdf) oraz <i class="fa-solid fa-file-pdf"></i> zaproszenie: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/ulotka.pdf).
+> 👉 <i class="fa-solid fa-file-pdf"></i> Agenda: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/2026-09-22-kick-off-agenda.pdf) oraz <i class="fa-solid fa-file-pdf"></i> zaproszenie: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/2026-09-22-kick-off-information-sheet.pdf).
+>
+> 👉 <i class="fa-solid fa-file-pdf"></i> Prezentacja ze spotkania: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/2026-09-22-kick-off-slides.pdf).
 >
 > 👉 <i class="fa-solid fa-images"></i> Fotorelacja ze spotkania: [**zobacz zdjęcia**](/posts/klaster-plus-kick-off-photos/).
 >
-> 👉 <i class="fa-brands fa-youtube" style="color: #ff0000;"></i> Nagranie wykładu na YouTube: [**@KlasterPlus**](https://www.youtube.com/@KlasterPlus).
+> 👉 <i class="fa-solid fa-video"></i> Nagrania i transkrypcje z inauguracji: [**zobacz materiały**](/posts/klaster-plus-kick-off-videos/).
 >
-> 👉 Wkrótce: prezentacja i transkrypt wykładu otwierającego w formacie PDF.
->
-> 👉 <i class="fa-solid fa-envelope"></i> Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+> 👉 <i class="fa-brands fa-youtube" style="color: #ff0000;"></i> Kanał YouTube projektu: [**@KlasterPlus**](https://www.youtube.com/@KlasterPlus).
 {: .prompt-tip }
+
+> <i class="fa-solid fa-envelope"></i> Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+{: .prompt-info }
+
+Spotkanie było oficjalnym rozpoczęciem wspólnej pracy nad rozwiązaniami dla przyszłych wspólnot energetycznych oraz okazją do bezpośrednich rozmów, wymiany doświadczeń i omówienia założeń projektu.
+
+Ważnym elementem spotkania było budowanie środowiska **współpracy nauki i przemysłu** w obszarze energetyki rozproszonej, mikrosieci oraz aparatury rozdzielczej i sterowniczej. Taka współpraca ma wspierać zarówno realizację projektu, jak i kolejne wspólne przedsięwzięcia badawczo-rozwojowe oraz wdrożeniowe.
 
 ## Otwarcie spotkania
 

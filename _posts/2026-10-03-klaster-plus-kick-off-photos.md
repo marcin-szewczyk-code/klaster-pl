@@ -1,5 +1,5 @@
 ---
-title: "Fotorelacja ze spotkania inauguracyjnego KLASTER+"
+title: "Fotorelacja z inauguracji projektu KLASTER+"
 description: "Inauguracja projektu KLASTER+ w CEZAMAT Politechniki Warszawskiej."
 date: 2026-10-03 12:00:00 +0200
 pin: false
@@ -7,9 +7,17 @@ pin: false
 
 Poniżej prezentujemy fotorelację ze spotkania inauguracyjnego projektu **KLASTER+**, które odbyło się 22 września 2026 r. w **CEZAMAT Politechniki Warszawskiej**.
 
-> Pełna relacja ze spotkania inauguracyjnego projektu **KLASTER+**: [**zobacz wpis**](/posts/klaster-plus-kick-off-highlights/).
+> **Powiązane materiały**
+>
+> 👉 <i class="fa-solid fa-newspaper"></i> Pełna relacja z inauguracji projektu w CEZAMAT PW: [**zobacz wpis**](/posts/klaster-plus-kick-off-highlights/).
+>
+> 👉 <i class="fa-solid fa-video"></i> Nagrania i transkrypcje z inauguracji: [**zobacz materiały**](/posts/klaster-plus-kick-off-videos/).
+>
+> 👉 <i class="fa-brands fa-youtube" style="color: #ff0000;"></i> Kanał YouTube projektu: [**@KlasterPlus**](https://www.youtube.com/@KlasterPlus).
 {: .prompt-tip }
 
+> <i class="fa-solid fa-envelope"></i> Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+{: .prompt-info }
 
 ## Galeria zdjęć
 
