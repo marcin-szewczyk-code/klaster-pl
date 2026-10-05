@@ -1,11 +1,11 @@
 ---
 title: "Nagrania z inauguracji projektu KLASTER+"
-description: "Historia Zespołu i projektu oraz prezentacja projektu – jego założeń, celów i planowanych działań."
+description: "Historia Zespołu i projektu oraz prezentacja projektu."
 date: 2026-10-05 08:30:00 +0200
 pin: false
 ---
 
-Publikujemy nagrania z inauguracji projektu **KLASTER+**. Pierwszy materiał przedstawia historię powstania Zespołu i projektu. Drugi materiał przedstawia założenia projektu, jego cele, kontekst i planowane działania.
+Publikujemy dwa nagrania z inauguracji projektu **KLASTER+**. Pierwszy materiał przedstawia historię powstania Zespołu i projektu. Drugi materiał przedstawia założenia projektu, jego cele, kontekst i planowane działania.
 
 Do każdego nagrania udostępniamy transkrypcję w formacie PDF oraz bezpośrednio w treści strony.
 
