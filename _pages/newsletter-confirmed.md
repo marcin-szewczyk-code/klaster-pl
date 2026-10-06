@@ -6,7 +6,7 @@ sitemap: false
 robots: noindex, nofollow
 ---
 
-> Status: subskrypcja aktywna
+> **Status:** subskrypcja aktywna
 {: .prompt-tip }
 
 Subskrypcja newslettera jest aktywna.

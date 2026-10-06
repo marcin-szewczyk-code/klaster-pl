@@ -6,7 +6,7 @@ sitemap: false
 robots: noindex, nofollow
 ---
 
-> Status: zgłoszenie przyjęte
+> **Status:** zgłoszenie przyjęte
 {: .prompt-info }
 
 Twój adres e-mail został przekazany do systemu newslettera.
