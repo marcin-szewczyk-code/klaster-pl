@@ -11,7 +11,7 @@ pin: true
 >
 > 👉 <i class="fa-solid fa-file-pdf"></i> Agenda: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/2026-09-22-kick-off-agenda.pdf) oraz <i class="fa-solid fa-file-pdf"></i> zaproszenie: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/2026-09-22-kick-off-information-sheet.pdf).
 >
-> 👉 <i class="fa-solid fa-file-pdf"></i> Prezentacja ze spotkania: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/2026-09-22-kick-off-slides.pdf).
+> 👉 <i class="fa-solid fa-file-pdf"></i> Prezentacja przedstawiona na spotkaniu: [**pobierz PDF**](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/2026-09-22-kick-off-slides.pdf).
 >
 > 👉 <i class="fa-solid fa-images"></i> Fotorelacja ze spotkania: [**zobacz zdjęcia**](/posts/klaster-plus-kick-off-photos/).
 >
