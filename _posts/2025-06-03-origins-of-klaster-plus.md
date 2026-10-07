@@ -50,7 +50,7 @@ Projekt oceniono w trzech obszarach. Uzyskał **35,4 punktu na 40 możliwych**, 
 - **15,3/17** za społeczną odpowiedzialność nauki,
 - **5,6/6** za potencjał wnioskodawcy.
 
-Do preselekcji na Politechnice Warszawskiej zgłoszono siedem projektów. Projekt **KLASTER+** był jednym z dwóch wybranych do zgłoszenia w konkursie ministerialnym.
+Do preselekcji na Politechnice Warszawskiej zgłoszono siedem projektów. Projekt **KLASTER+** był jednym z trzech wybranych do zgłoszenia w konkursie ministerialnym.
 
 ## Od preselekcji do złożenia wniosku
 
@@ -62,7 +62,7 @@ Warunkiem udziału w programie było zaangażowanie co najmniej jednego partnera
 
 ## Wyniki konkursu i finansowanie projektu
 
-6 maja 2026 r. ogłoszono wyniki konkursu. Projekt **KLASTER+** został zakwalifikowany do finansowania ze środków budżetu państwa, przyznanych przez Ministra Nauki i Szkolnictwa Wyższego w ramach programu „Nauka dla Rozwoju Społeczeństwa”.
+6 maja 2026 r. ogłoszono wyniki konkursu. Spośród trzech projektów zgłoszonych przez Politechnikę Warszawską dwa uzyskały finansowanie, a jeden nie został zakwalifikowany do finansowania. Projekt **KLASTER+** został zakwalifikowany do finansowania ze środków budżetu państwa, przyznanych przez Ministra Nauki i Szkolnictwa Wyższego w ramach programu „Nauka dla Rozwoju Społeczeństwa”.
 
 Wniosek uzyskał **34 punkty na 40 możliwych**. W **7 z 12 kryteriów oceny** przyznano maksymalną liczbę punktów, m.in. za zasadność zaplanowanych zadań, konkretne i mierzalne rezultaty projektu, możliwości organizacyjne wnioskodawcy i partnerów oraz sposób upowszechniania wyników. Maksymalną ocenę **6/6 pkt** projekt uzyskał także w całym obszarze dotyczącym **potencjału organizacyjnego i kompetencji Zespołu**.
 
