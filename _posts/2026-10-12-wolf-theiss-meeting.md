@@ -9,7 +9,7 @@ pin: false
 
 
 ![Spotkanie w kancelarii Wolf Theiss](/assets/posts/2026-10-12-wolf-theiss-meeting/2026-10-12-wolf-theiss-meeting.webp)
-*Spotkanie w kancelarii Wolf Theiss. Od lewej: mec. Jakub Steciuk, mec. Paweł Łączkowski, Tadeusz Daszczyński, Michał Połecki, Łukasz Rokicki*
+*Spotkanie w kancelarii Wolf Theiss. Od lewej: mec. Jakub Steciuk,<br>mec. Paweł Łączkowski, Tadeusz Daszczyński, Michał Połecki, Łukasz Rokicki*
 
 Wolf Theiss jest międzynarodową kancelarią prawną działającą w Europie Środkowej, Wschodniej i Południowo-Wschodniej (CEE/SEE), zatrudniającą ponad 800 osób, w tym ponad 500 prawników. Kancelaria świadczy kompleksowe doradztwo prawne dla biznesu, obejmujące m.in. fuzje i przejęcia (M&A), prawo bankowe i finansowe, rynki kapitałowe, prawo nieruchomości, prawo pracy, prawo konkurencji, doradztwo podatkowe oraz rozwiązywanie sporów.
 
