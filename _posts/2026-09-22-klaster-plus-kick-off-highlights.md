@@ -172,7 +172,7 @@ W trakcie spotkania uczestnicy mieli kilka okazji do dyskusji i bezpośredniej w
 
 ## Demonstracje techniczne
 
-Ostatnia część wydarzenia miała charakter techniczny. Uczestnicy mogli zapoznać się z infrastrukturą i rozwiązaniami wykorzystywanymi przez partnerów projektu – **ESA Hub Sp. z o.o.** i **CEZAMAT PW** – oraz ze **stanowiskiem sterownika polowego firmy Elektrometal Energetyka S.A.**. Podczas demonstracji omawiane wcześniej założenia projektu można było odnieść do rzeczywistych urządzeń i infrastruktury badawczej.
+Ostatnia część wydarzenia miała charakter techniczny. Uczestnicy mogli zapoznać się z infrastrukturą i rozwiązaniami wykorzystywanymi przez partnerów projektu – **ESA Hub Sp. z o.o.** i **CEZAMAT PW** – oraz ze **stanowiskiem sterownika polowego firmy Elektrometal Energetyka S.A.**. Omawiane wcześniej założenia projektu można było odnieść do rzeczywistych urządzeń i infrastruktury badawczej.
 
 ![Uczestnicy podczas części demonstracyjnej spotkania](/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/all-demo.webp)
 *Uczestnicy podczas części demonstracyjnej spotkania, fot. KLASTER+*
