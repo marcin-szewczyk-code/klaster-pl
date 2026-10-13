@@ -25,7 +25,6 @@
 {% if update_list.size > 0 %}
 
   <!-- MPS: KLASTER+ stats panel -->
-<!--
   <section id="access-stats">
     <h2 class="panel-heading">Statystyki strony</h2>
 
@@ -40,12 +39,14 @@
     {% endfor %}
     {% assign total_minutes = total_words | divided_by: 200 %}
 
+    {% assign latest_post = site.posts | first %}
+
     <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
       <li class="lh-lg d-flex justify-content-between">
         <span>Wpisy</span>
         <span><strong>{{ posts_count }}</strong></span>
       </li>
-
+<!--
       <li class="lh-lg d-flex justify-content-between">
         <span>Kategorie</span>
         <span><strong>{{ categories_count }}</strong></span>
@@ -57,14 +58,19 @@
         <span><strong>{{ tags_count }}</strong></span>
       </li>
 -->
-<!--
+
       <li class="lh-lg d-flex justify-content-between">
         <span>Czas czytania (min)</span>
         <span><strong>{{ total_minutes }}</strong></span>
       </li>
+
+      <li class="lh-lg d-flex justify-content-between">
+        <span>Ostatnia publikacja</span>
+        <span><strong>{{ latest_post.date | date: "%d.%m.%Y" }}</strong></span>
+    </li>
     </ul>
   </section>
--->
+
   <!-- #access-stats -->
 
   <section id="access-lastmod">
