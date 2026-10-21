@@ -11,7 +11,7 @@ W dniach **19–20 października 2026 r.** przedstawiciele zespołu **KLASTER+**
 
 Ze strony **Siarkopol Gdańsk S.A.** uczestniczyli **Jakub Papierski** – Prezes Zarządu, **Rafał Cichosz** – Kierownik Działu Mediów Technologicznych oraz **Sabina Sadowska-Orzeszko** – Kierownik Działu HR.
 
-![Spotkanie przedstawicieli KLASTER+, Siarkopol, EnH2O i IEN-PIB](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/Siarkopol_01.webp)
+![Spotkanie przedstawicieli KLASTER+, Siarkopol, EnH2O i IEN-PIB](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/siarkopol_01.webp)
 *Spotkanie zespołu KLASTER+ z przedstawicielami Siarkopol, EnH2O i IEN-PIB w siedzibie Siarkopol Gdańsk.*
 
 **EnH2O Sp. z o.o.** reprezentowali **Mariusz Krużyński** – Prezes Zarządu, **Krzysztof Rozmysłowski** – Kierownik ds. Energetycznych oraz **Henryk Denkiewicz** – Kierownik Działu Sieci Energetycznej. W spotkaniu uczestniczył również **Bartłomiej Zosiuk**, Prezes Zarządu **AT PROJECT Sp. z o.o.**.
@@ -28,7 +28,7 @@ Gospodarzem pierwszego spotkania była spółka **„Siarkopol” Gdańsk S.A.**
 
 Działalność **EnH2O Sp. z o.o.** zaprezentował **Mariusz Krużyński**, Prezes Zarządu. Spółka działa na obszarach związanych ze Stocznią Gdańską, gdzie pełni m.in. funkcję **operatora systemu dystrybucyjnego typu OSDn**.
 
-![Spotkanie przedstawicieli KLASTER+, Siarkopol, EnH2O i IEN-PIB](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/Siarkopol_00.webp)
+![Spotkanie przedstawicieli KLASTER+, Siarkopol, EnH2O i IEN-PIB](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/siarkopol_00.webp)
 *Spotkanie zespołu KLASTER+ z przedstawicielami Siarkopol, EnH2O i IEN-PIB w siedzibie Siarkopol Gdańsk.*
 
 W kolejnej części spotkania **Bartłomiej Zosiuk**, Prezes Zarządu **AT PROJECT Sp. z o.o.**, przedstawił koncepcję przygotowaną dla Siarkopolu i EnH2O.
@@ -39,7 +39,7 @@ Następnie **Tadeusz Daszczyński**, kierownik projektu KLASTER+, zaprezentował
 
 Po zakończeniu części prezentacyjnej odbyła się wizyta na terenie terminalu przeładunkowego **Siarkopolu Gdańsk**, podczas której **Rafał Cichosz**, Kierownik Działu Mediów Technologicznych, zapoznał uczestników z wybranymi elementami infrastruktury przedsiębiorstwa. Pokazano **stacje transformatorowe** oraz **stację uzdatniania wody**.
 
-![Zwiedzanie infrastruktury Siarkopol Gdańsk](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/Siarkopol_02.webp)
+![Zwiedzanie infrastruktury Siarkopol Gdańsk](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/siarkopol_02.webp)
 *Zapoznanie się z infrastrukturą techniczną Siarkopol Gdańsk podczas wizyty terenowej.*
 
 Następnie **Mariusz Krużyński**, Prezes Zarządu EnH2O, oraz **Henryk Denkiewicz**, Kierownik Działu Sieci Energetycznej, przedstawili infrastrukturę energetyczną spółki EnH2O.
