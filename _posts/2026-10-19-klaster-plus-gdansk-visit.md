@@ -7,6 +7,9 @@ pin: false
 
 W dniach **19–20 października 2026 r.** przedstawiciele zespołu **KLASTER+** – **Tadeusz Daszczyński, Łukasz Rokicki, Marcin Szewczyk, Szymon Stoczko i Robert Wójtowicz** – uczestniczyli w spotkaniach w Gdańsku z przedstawicielami **[„Siarkopol” Gdańsk S.A.](https://siarkopol.gda.pl/)**, **[EnH2O Sp. z o.o.](https://enh2o.com.pl/)** oraz **[Instytutu Energetyki, Oddział Gdańsk](https://www.ien.gda.pl/)**.
 
+> <i class="fa-solid fa-envelope"></i> Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+{: .prompt-info }
+
 ### Uczestnicy spotkań
 
 Ze strony **Siarkopol Gdańsk S.A.** uczestniczyli **Jakub Papierski** – Prezes Zarządu, **Rafał Cichosz** – Kierownik Działu Mediów Technologicznych oraz **Sabina Sadowska-Orzeszko** – Kierownik Działu HR.
@@ -95,5 +98,10 @@ Dwudniowa wizyta umożliwiła odniesienie celów projektu KLASTER+ do **infrastr
 
 Dziękujemy **Prezesowi Jakubowi Papierskiemu** i zespołowi Siarkopol Gdańsk S.A., **Prezesowi Mariuszowi Krużyńskiemu** i przedstawicielom EnH2O Sp. z o.o. oraz **Dyrektorowi Michałowi Izdebskiemu** i przedstawicielom Oddziału Gdańsk IEN-PIB za otwartość na współpracę, możliwość poznania infrastruktury elektroenergetycznej obu spółek oraz zaplecza badawczo-wdrożeniowego Instytutu.
 
-> <i class="fa-solid fa-envelope"></i> Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
-{: .prompt-info }
+## Wpis na LinkedIn
+
+Podsumowanie wizyty opublikowane na LinkedIn.
+
+![Wpis na LinkedIn dotyczący wizyty zespołu KLASTER+ w Gdańsku](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/ln-pl.webp)
+*Wpis na LinkedIn opublikowany 21 października 2026 r.*
+
