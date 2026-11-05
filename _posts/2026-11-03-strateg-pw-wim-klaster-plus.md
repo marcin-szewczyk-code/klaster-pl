@@ -18,7 +18,7 @@ pin: false
 
 W spotkaniu uczestniczyli **Rektor Politechniki Warszawskiej prof. dr hab. inż. Krzysztof Zaremba** oraz prorektorzy: **prof. dr hab. inż. Mirosław Karpierz, prof. dr hab. inż. Mariusz Malinowski, prof. dr hab. inż. arch. Jan Słyk, prof. dr hab. inż. Adam Woźniak i prof. dr hab. inż. Robert Zalewski**.
 
-Wśród pozostałych uczestników byli **prof. dr hab. inż. Tomasz Wejrzanowski, dr hab. inż. Aldona Zalewska, prof. arch. dr hab. inż. Radosław Achramowicz, mgr inż. Andrzej Barcewicz, mgr inż. Gabriela Komorowska, mgr inż. Krzysztof Kalinowski, dr inż. Tadeusz Daszczyński** oraz przedstawiciel **Stoen Operator**.
+Wśród pozostałych uczestników byli **prof. dr hab. inż. Tomasz Wejrzanowski, dr hab. inż. Aldona Zalewska, prof. arch. dr hab. inż. Radosław Achramowicz, mgr inż. Andrzej Barcewicz, mgr inż. Gabriela Komorowska, mgr inż. Krzysztof Kalinowski, dr inż. Tadeusz Daszczyński** oraz przedstawicielka **Stoen Operator**.
 
 ![Uczestnicy posiedzenia Komitetu Sterującego IDUB](/assets/posts/2026-11-03-strateg-pw-wim-klaster-plus/2026-11-03-strateg-pw-uczestnicy.webp)
 *Przedstawiciele zespołu realizującego projekt STRATEG PW. Od lewej: dr inż. **Tadeusz Daszczyński**, **Andrzej Barcewicz** z Działu Inwestycji PW, dr hab. inż. **Aldona Zalewska**, prof. PW, prof. arch. dr hab. inż. **Radosław Achramowicz**, mgr inż. **Gabriela Komorowska**, prof. dr hab. inż. **Tomasz Wejrzanowski**, mgr inż. **Krzysztof Kalinowski** oraz przedstawicielka **Stoen Operator**.*
