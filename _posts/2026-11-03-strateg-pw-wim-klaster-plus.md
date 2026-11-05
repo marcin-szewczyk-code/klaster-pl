@@ -1,5 +1,5 @@
 ---
-title: "STRATEG PW – możliwości badawcze dla KLASTER+"
+title: "STRATEG PW – możliwości badawcze dla projektu KLASTER+"
 description: "Dane z mikrosieci WIM PW zostaną wykorzystane do rozwoju algorytmów w projekcie KLASTER+."
 date: 2026-11-03 17:00:00 +0100
 pin: false
