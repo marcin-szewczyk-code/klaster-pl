@@ -20,6 +20,9 @@ W spotkaniu uczestniczyli **Rektor Politechniki Warszawskiej prof. dr hab. inż.
 
 Wśród pozostałych uczestników byli **prof. dr hab. inż. Tomasz Wejrzanowski, dr hab. inż. Aldona Zalewska, prof. arch. dr hab. inż. Radosław Achramowicz, mgr inż. Gabriela Komorowska, mgr inż. Krzysztof Kalinowski, dr inż. Tadeusz Daszczyński** oraz przedstawiciel **Stoen Operator**.
 
+![Uczestnicy posiedzenia Komitetu Sterującego IDUB](/assets/posts/2026-11-03-strateg-pw-wim-klaster-plus/2026-11-03-strateg-pw-uczestnicy.webp)
+*Przedstawiciele zespołu realizującego projekt STRATEG PW. Od lewej: dr inż. **Tadeusz Daszczyński**, **Andrzej Barcewicz** z Działu Inwestycji PW, dr hab. inż. **Aldona Zalewska**, prof. PW, prof. arch. dr hab. inż. **Radosław Achramowicz**, mgr inż. **Gabriela Komorowska**, prof. dr hab. inż. **Tomasz Wejrzanowski**, mgr inż. **Krzysztof Kalinowski** oraz przedstawicielka **Stoen Operator**.*
+
 ### Prezentacja projektu WIM PW
 
 Podczas spotkania prof. dr hab. inż. **Tomasz Wejrzanowski**, prodziekan ds. ogólnych i nauki Wydziału Inżynierii Materiałowej PW (WIM), przedstawił rezultaty projektu **„Pilotażowa instalacja wytwarzania i magazynowania energii oparta o efektywne i trwałe technologie fotowoltaiczne i bateryjne”**.
