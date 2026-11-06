@@ -11,6 +11,13 @@ Głównym celem projektu jest opracowanie i wdrożenie sterownika polowego wypos
 
 Sterownik ma umożliwić dwukierunkową wymianę informacji pomiędzy mikrosiecią a systemem operatora. Pozwoli to sterować lokalnymi źródłami OZE, magazynami energii i odbiornikami z uwzględnieniem aktualnych warunków pracy sieci.
 
+> **Więcej informacji**
+>
+> 👉 Aktualności: [**klaster-plus.pw.edu.pl**](https://klaster-plus.edu.pl/).
+>
+> 🔔 Newsletter: [**zapisz się tutaj**](https://klaster-plus.edu.pl/newsletter/) – wysyłamy tylko informacje o nowych wpisach.
+{: .prompt-tip }
+
 <div style="clear: both;"></div>
 
 ## Dlaczego realizujemy projekt?
